@@ -1,0 +1,302 @@
+[
+  {
+    "question": "What is the main climate on the Arabian Peninsula?",
+    "answers": [
+      { "id": "A", "text": "Temperate" },
+      { "id": "B", "text": "Tropical" },
+      { "id": "C", "text": "Deserts" },
+      { "id": "D", "text": "Forests" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "The Arabian Peninsula was, and still mostly is, populated by which group?",
+    "answers": [
+      { "id": "A", "text": "Persians" },
+      { "id": "B", "text": "Arabs" },
+      { "id": "C", "text": "Kurds" },
+      { "id": "D", "text": "Turks" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What type of language is spoken in the Arabian Peninsula?",
+    "answers": [
+      { "id": "A", "text": "Indo-European" },
+      { "id": "B", "text": "Semitic" },
+      { "id": "C", "text": "Turkic" },
+      { "id": "D", "text": "Dravidian" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What mode of living was traditionally practiced by early Arabs?",
+    "answers": [
+      { "id": "A", "text": "Sedentary agriculture" },
+      { "id": "B", "text": "Urban" },
+      { "id": "C", "text": "Nomads" },
+      { "id": "D", "text": "Subsistence farming" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "The early Arabs were organized into tribes led by a:",
+    "answers": [
+      { "id": "A", "text": "Caliph" },
+      { "id": "B", "text": "Sultan" },
+      { "id": "C", "text": "Sheikh" },
+      { "id": "D", "text": "Emir" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What animal's domestication increased early Arabs' ability to travel?",
+    "answers": [
+      { "id": "A", "text": "Horse" },
+      { "id": "B", "text": "Camel" },
+      { "id": "C", "text": "Elephant" },
+      { "id": "D", "text": "Donkey" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What was the head deity called in early Arab religion?",
+    "answers": [
+      { "id": "A", "text": "Allah" },
+      { "id": "B", "text": "Ba'al" },
+      { "id": "C", "text": "Zeus" },
+      { "id": "D", "text": "Odin" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What city became the religious and political center of Islam?",
+    "answers": [
+      { "id": "A", "text": "Medina" },
+      { "id": "B", "text": "Mecca" },
+      { "id": "C", "text": "Jerusalem" },
+      { "id": "D", "text": "Damascus" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "In early Islamic community, the social and political code was known as:",
+    "answers": [
+      { "id": "A", "text": "Shariah" },
+      { "id": "B", "text": "Hammurabi's Code" },
+      { "id": "C", "text": "Ten Commandments" },
+      { "id": "D", "text": "Roman Law" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What is the Islamic act of almsgiving called?",
+    "answers": [
+      { "id": "A", "text": "Salat" },
+      { "id": "B", "text": "Shahadah" },
+      { "id": "C", "text": "Zakat" },
+      { "id": "D", "text": "Hajj" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Muhammad was orphaned at what age?",
+    "answers": [
+      { "id": "A", "text": "5" },
+      { "id": "B", "text": "7" },
+      { "id": "C", "text": "10" },
+      { "id": "D", "text": "12" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What was the profession of Muhammad before he became a prophet?",
+    "answers": [
+      { "id": "A", "text": "Shepherd" },
+      { "id": "B", "text": "Teacher" },
+      { "id": "C", "text": "Caravan manager" },
+      { "id": "D", "text": "Carpenter" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Who was the wealthy widow Muhammad married?",
+    "answers": [
+      { "id": "A", "text": "Aisha" },
+      { "id": "B", "text": "Fatimah" },
+      { "id": "C", "text": "Khadija" },
+      { "id": "D", "text": "Zaynab" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "During which month do Muslims fast from dawn to sunset?",
+    "answers": [
+      { "id": "A", "text": "Rabi' al-awwal" },
+      { "id": "B", "text": "Rajab" },
+      { "id": "C", "text": "Sha'ban" },
+      { "id": "D", "text": "Ramadan" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "The migration of Muhammad from Mecca to Medina is known as:",
+    "answers": [
+      { "id": "A", "text": "Hajj" },
+      { "id": "B", "text": "Hijrah" },
+      { "id": "C", "text": "Jihad" },
+      { "id": "D", "text": "Salah" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which city became known as 'City of the Prophet'?",
+    "answers": [
+      { "id": "A", "text": "Medina" },
+      { "id": "B", "text": "Mecca" },
+      { "id": "C", "text": "Damascus" },
+      { "id": "D", "text": "Jerusalem" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What did the term 'umma' refer to in early Islam?",
+    "answers": [
+      { "id": "A", "text": "The holy book" },
+      { "id": "B", "text": "The religious community" },
+      { "id": "C", "text": "The pilgrimage to Mecca" },
+      { "id": "D", "text": "The Islamic law" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is the first pillar of Islam?",
+    "answers": [
+      { "id": "A", "text": "Salat" },
+      { "id": "B", "text": "Shahadah" },
+      { "id": "C", "text": "Zakat" },
+      { "id": "D", "text": "Hajj" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which prophet is Jesus compared to in Islam?",
+    "answers": [
+      { "id": "A", "text": "Equivalent to Muhammad" },
+      { "id": "B", "text": "Recognized as a prophet but not divine" },
+      { "id": "C", "text": "Not recognized at all" },
+      { "id": "D", "text": "Considered divine" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What event marks year 0 on the Islamic calendar?",
+    "answers": [
+      { "id": "A", "text": "The birth of Muhammad" },
+      { "id": "B", "text": "The first revelation to Muhammad" },
+      { "id": "C", "text": "The Hijrah of Muhammad" },
+      { "id": "D", "text": "The establishment of the first mosque" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the socio-political order in Mecca that Muhammad opposed?",
+    "answers": [
+      { "id": "A", "text": "Socialism" },
+      { "id": "B", "text": "Democracy" },
+      { "id": "C", "text": "Monarchy" },
+      { "id": "D", "text": "Tribal Elitism" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What was the reaction of Mecca elites to Muhammad's teachings?",
+    "answers": [
+      { "id": "A", "text": "Supportive" },
+      { "id": "B", "text": "Indifferent" },
+      { "id": "C", "text": "Opposed" },
+      { "id": "D", "text": "Welcoming" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the term for the struggle or fight against the enemies of Islam?",
+    "answers": [
+      { "id": "A", "text": "Hijrah" },
+      { "id": "B", "text": "Salat" },
+      { "id": "C", "text": "Jihad" },
+      { "id": "D", "text": "Shahadah" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which city did Muhammad and his followers conquer in 630 CE?",
+    "answers": [
+      { "id": "A", "text": "Medina" },
+      { "id": "B", "text": "Damascus" },
+      { "id": "C", "text": "Mecca" },
+      { "id": "D", "text": "Jerusalem" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which religious building did Muhammad purify into a sacred shrine for Islam?",
+    "answers": [
+      { "id": "A", "text": "The Dome of the Rock" },
+      { "id": "B", "text": "The Al-Aqsa Mosque" },
+      { "id": "C", "text": "The Great Mosque of Damascus" },
+      { "id": "D", "text": "The Kaaba" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Which Pillar of Islam involves making a pilgrimage to Mecca?",
+    "answers": [
+      { "id": "A", "text": "Shahadah" },
+      { "id": "B", "text": "Salat" },
+      { "id": "C", "text": "Hajj" },
+      { "id": "D", "text": "Zakat" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What type of ethical rules does Islam emphasize?",
+    "answers": [
+      { "id": "A", "text": "Honesty and justice in dealing with others" },
+      { "id": "B", "text": "Prayer and meditation" },
+      { "id": "C", "text": "Pilgrimage and travel" },
+      { "id": "D", "text": "Asceticism and monastic living" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What was the city of Yathrib later known as?",
+    "answers": [
+      { "id": "A", "text": "Mecca" },
+      { "id": "B", "text": "Medina" },
+      { "id": "C", "text": "Jerusalem" },
+      { "id": "D", "text": "Damascus" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What was the Arabian Peninsula like before the spread of Islam?",
+    "answers": [
+      { "id": "A", "text": "Unified under one empire" },
+      { "id": "B", "text": "Largely Christian" },
+      { "id": "C", "text": "Fragmented into tribes" },
+      { "id": "D", "text": "Colonized by foreign powers" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the name given to the Islamic community under Muhammad's leadership?",
+    "answers": [
+      { "id": "A", "text": "Shariah" },
+      { "id": "B", "text": "Ummah" },
+      { "id": "C", "text": "Caliphate" },
+      { "id": "D", "text": "Mecca" }
+    ],
+    "correct": "B"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What was the starting point of the Inca before they became a major empire?",
+    "answers": [
+      { "id": "A", "text": "A small village in the Andes" },
+      { "id": "B", "text": "A small, unimportant tribe in the city of Cusco" },
+      { "id": "C", "text": "A coastal fishing community" },
+      { "id": "D", "text": "A nomadic tribe in the Amazon rainforest" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Who was the leader that began the massive territorial expansion of the Inca?",
+    "answers": [
+      { "id": "A", "text": "Viracocha" },
+      { "id": "B", "text": "Atahualpa" },
+      { "id": "C", "text": "Pachacuti" },
+      { "id": "D", "text": "Manco Capac" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "How long was the Andean Mountain range that the Inca Empire expanded along?",
+    "answers": [
+      { "id": "A", "text": "1500 miles" },
+      { "id": "B", "text": "2500 miles" },
+      { "id": "C", "text": "3500 miles" },
+      { "id": "D", "text": "4500 miles" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What type of government did the Inca empire have?",
+    "answers": [
+      { "id": "A", "text": "Democracy" },
+      { "id": "B", "text": "Oligarchy" },
+      { "id": "C", "text": "Theocracy" },
+      { "id": "D", "text": "Monarchy" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the main language of the Inca?",
+    "answers": [
+      { "id": "A", "text": "Aymara" },
+      { "id": "B", "text": "Spanish" },
+      { "id": "C", "text": "Quechua" },
+      { "id": "D", "text": "Nahuatl" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the Inca's numeric record-keeping method called?",
+    "answers": [
+      { "id": "A", "text": "Quipu" },
+      { "id": "B", "text": "Mita" },
+      { "id": "C", "text": "Tampu" },
+      { "id": "D", "text": "Chasqui" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What did the Inca require conquered peoples to do?",
+    "answers": [
+      { "id": "A", "text": "Pay heavy taxes" },
+      { "id": "B", "text": "Learn Quechua and integrate Inca culture" },
+      { "id": "C", "text": "Serve in the military" },
+      { "id": "D", "text": "Relocate to distant lands" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What was the mita system?",
+    "answers": [
+      { "id": "A", "text": "A religious ritual" },
+      { "id": "B", "text": "A form of currency" },
+      { "id": "C", "text": "A tribute in the form of free labor" },
+      { "id": "D", "text": "An agricultural technique" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was an important Inca innovation in agriculture?",
+    "answers": [
+      { "id": "A", "text": "Terrace farming" },
+      { "id": "B", "text": "Irrigation canals" },
+      { "id": "C", "text": "Crop rotation" },
+      { "id": "D", "text": "Animal husbandry" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What was a primary crop of the Inca?",
+    "answers": [
+      { "id": "A", "text": "Maize" },
+      { "id": "B", "text": "Potatoes" },
+      { "id": "C", "text": "Quinoa" },
+      { "id": "D", "text": "Cacao" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "How did the Inca shore up mountains?",
+    "answers": [
+      { "id": "A", "text": "Using metal barriers" },
+      { "id": "B", "text": "Building wooden supports" },
+      { "id": "C", "text": "Creating advanced drainage systems" },
+      { "id": "D", "text": "Using stone retaining walls" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What was the primary example of Inca road engineering?",
+    "answers": [
+      { "id": "A", "text": "The Silk Road" },
+      { "id": "B", "text": "The Royal Road" },
+      { "id": "C", "text": "Machu Picchu" },
+      { "id": "D", "text": "The Nazca Lines" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Approximately how many miles of roads did the Inca Empire have?",
+    "answers": [
+      { "id": "A", "text": "10,000 miles" },
+      { "id": "B", "text": "15,000 miles" },
+      { "id": "C", "text": "24,800 miles" },
+      { "id": "D", "text": "30,000 miles" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the Inca road system primarily used for?",
+    "answers": [
+      { "id": "A", "text": "Military conquests" },
+      { "id": "B", "text": "Religious pilgrimages" },
+      { "id": "C", "text": "Trade and communication" },
+      { "id": "D", "text": "Public parades and festivals" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the numerical base of the Inca's record-keeping system?",
+    "answers": [
+      { "id": "A", "text": "Base-5" },
+      { "id": "B", "text": "Base-10" },
+      { "id": "C", "text": "Base-12" },
+      { "id": "D", "text": "Base-20" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What innovation allowed the Inca to extend their empire over rough mountain terrain?",
+    "answers": [
+      { "id": "A", "text": "Cable cars" },
+      { "id": "B", "text": "Steam engines" },
+      { "id": "C", "text": "Terrace farming and stone construction" },
+      { "id": "D", "text": "Bridges and tunnels" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What did the Inca use to communicate over long distances?",
+    "answers": [
+      { "id": "A", "text": "Signal fires" },
+      { "id": "B", "text": "Pigeons" },
+      { "id": "C", "text": "Runners and rest houses" },
+      { "id": "D", "text": "Drums and horns" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "How were the Inca able to manage the administration of their empire?",
+    "answers": [
+      { "id": "A", "text": "By using paper records" },
+      { "id": "B", "text": "Through a system of knotted cords" },
+      { "id": "C", "text": "By memorizing everything" },
+      { "id": "D", "text": "Using stone tablets" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What did the Inca Empire split into for administrative purposes?",
+    "answers": [
+      { "id": "A", "text": "Two halves" },
+      { "id": "B", "text": "Four quarters" },
+      { "id": "C", "text": "Six regions" },
+      { "id": "D", "text": "Eight sectors" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What was an important duty of Inca governors?",
+    "answers": [
+      { "id": "A", "text": "Collecting taxes" },
+      { "id": "B", "text": "Leading military campaigns" },
+      { "id": "C", "text": "Recording births, deaths, and marriages" },
+      { "id": "D", "text": "Conducting religious ceremonies" }
+    ],
+    "correct": "C"
+  }
+]
