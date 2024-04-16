@@ -45,6 +45,8 @@ const NavBar = () => {
             <NavLink style={styles.dropdownItem} to="/history/lesson5" onClick={closeDropdowns}>Lesson 5</NavLink>
             <NavLink style={styles.dropdownItem} to="/history/lesson6" onClick={closeDropdowns}>Lesson 6</NavLink>
             <NavLink style={styles.dropdownItem} to="/history/lesson7" onClick={closeDropdowns}>Lesson 7</NavLink>
+            <NavLink style={styles.dropdownItem} to="/history/lesson8" onClick={closeDropdowns}>Lesson 8</NavLink>
+            <NavLink style={styles.dropdownItem} to="/history/lesson9" onClick={closeDropdowns}>Lesson 9</NavLink>
             {/* ... more history lessons */}
           </div>
         )}
