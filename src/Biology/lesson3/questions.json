@@ -1,202 +1,292 @@
 [
   {
-    "question": "Where did the Mexica originate?",
+    "question": "Place the following in the order (number 1-4) of the path an egg travels from where it is produced to where it exits the female.",
     "answers": [
-      { "id": "A", "text": "Northeast of modern-day US" },
-      { "id": "B", "text": "Northwest of modern-day US" },
-      { "id": "C", "text": "Southeast of modern-day US" },
-      { "id": "D", "text": "Southwest of modern-day US" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "What sign did Huitzilopochtli give the Mexica to settle down?",
-    "answers": [
-      { "id": "A", "text": "A snake perched on a rock" },
-      { "id": "B", "text": "An eagle perched on a cactus" },
-      { "id": "C", "text": "A jaguar next to a river" },
-      { "id": "D", "text": "A wolf on a hill" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "What was the capital built by the Mexica?",
-    "answers": [
-      { "id": "A", "text": "Machu Picchu" },
-      { "id": "B", "text": "Tenochtitlan" },
-      { "id": "C", "text": "Chichen Itza" },
-      { "id": "D", "text": "Teotihuacan" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "What kind of empire did the Mexica establish?",
-    "answers": [
-      { "id": "A", "text": "Democracy" },
-      { "id": "B", "text": "Monarchy" },
-      { "id": "C", "text": "Tributary" },
-      { "id": "D", "text": "Dictatorship" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "What was the nature of the states conquered by the Mexica?",
-    "answers": [
-      { "id": "A", "text": "Fully independent" },
-      { "id": "B", "text": "Semi-independent" },
-      { "id": "C", "text": "Completely integrated" },
-      { "id": "D", "text": "Destroyed" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "How did Mexica manage farming on an island with little farmland?",
-    "answers": [
-      { "id": "A", "text": "Floating gardens" },
-      { "id": "B", "text": "Desert farming" },
-      { "id": "C", "text": "Terrace farming" },
-      { "id": "D", "text": "Rainfed farming" }
+      { "id": "A", "text": "1. Ovary, 2. Fallopian tubes, 3. Uterus, 4. Vagina" },
+      { "id": "B", "text": "1. Fallopian tubes, 2. Ovary, 3. Vagina, 4. Uterus" },
+      { "id": "C", "text": "1. Uterus, 2. Fallopian tubes, 3. Vagina, 4. Ovary" },
+      { "id": "D", "text": "1. Vagina, 2. Uterus, 3. Fallopian tubes, 4. Ovary" }
     ],
     "correct": "A"
   },
   {
-    "question": "What type of number system did the Mexica use?",
+    "question": "Place the following in the order (number 1-4) of the path a sperm travels from where it is produced to where it exits the male.",
     "answers": [
-      { "id": "A", "text": "Base-10" },
-      { "id": "B", "text": "Base-20" },
-      { "id": "C", "text": "Base-12" },
-      { "id": "D", "text": "Base-16" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Which one of these features was part of Mexica architecture/engineering?",
-    "answers": [
-      { "id": "A", "text": "Ziggurats" },
-      { "id": "B", "text": "Obelisks" },
-      { "id": "C", "text": "Causeways" },
-      { "id": "D", "text": "Aqueducts" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "What was the key to the Mexica empire's economy?",
-    "answers": [
-      { "id": "A", "text": "Trade" },
-      { "id": "B", "text": "Agriculture" },
-      { "id": "C", "text": "Mining" },
-      { "id": "D", "text": "Craftsmanship" }
+      { "id": "A", "text": "1. Testes, 2. Epididymis, 3. Vas deferens, 4. Urethra" },
+      { "id": "B", "text": "1. Vas deferens, 2. Urethra, 3. Epididymis, 4. Testes" },
+      { "id": "C", "text": "1. Urethra, 2. Vas deferens, 3. Testes, 4. Epididymis" },
+      { "id": "D", "text": "1. Epididymis, 2. Testes, 3. Urethra, 4. Vas deferens" }
     ],
     "correct": "A"
   },
   {
-    "question": "What role did merchants, known as pochtecas, play in Mexica society?",
+    "question": "What is the overall purpose of the male reproductive system?",
     "answers": [
-      { "id": "A", "text": "Lower class" },
-      { "id": "B", "text": "Middle class" },
-      { "id": "C", "text": "Upper class" },
-      { "id": "D", "text": "Wealthier than nobles" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "What did the Mexica believe the sun god was in constant battle with?",
-    "answers": [
-      { "id": "A", "text": "Moon" },
-      { "id": "B", "text": "Storms" },
-      { "id": "C", "text": "Darkness" },
-      { "id": "D", "text": "Stars" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "How many human sacrifices were performed by the Mexica per year?",
-    "answers": [
-      { "id": "A", "text": "10,000" },
-      { "id": "B", "text": "20,000" },
-      { "id": "C", "text": "30,000" },
-      { "id": "D", "text": "40,000" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "What was the primary source of Mexica human sacrifices?",
-    "answers": [
-      { "id": "A", "text": "Criminals" },
-      { "id": "B", "text": "Slaves" },
-      { "id": "C", "text": "War prisoners" },
-      { "id": "D", "text": "Volunteers" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "What kind of changes did war prisoners undergo in the Mexica empire?",
-    "answers": [
-      { "id": "A", "text": "Religious indoctrination" },
-      { "id": "B", "text": "Enslavement" },
-      { "id": "C", "text": "Forced labor" },
-      { "id": "D", "text": "Figurative transformation" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "What was the Mexica's form of writing?",
-    "answers": [
-      { "id": "A", "text": "Alphabetic" },
-      { "id": "B", "text": "Pictographic" },
-      { "id": "C", "text": "Glyphic" },
-      { "id": "D", "text": "Cuneiform" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "What was the name of Mexica's written books?",
-    "answers": [
-      { "id": "A", "text": "Tablets" },
-      { "id": "B", "text": "Scrolls" },
-      { "id": "C", "text": "Codices" },
-      { "id": "D", "text": "Papyri" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "What style did Mexica engineering represent?",
-    "answers": [
-      { "id": "A", "text": "Baroque" },
-      { "id": "B", "text": "Gothic" },
-      { "id": "C", "text": "Renaissance" },
-      { "id": "D", "text": "Classical" }
+      { "id": "A", "text": "To produce and nurture offspring" },
+      { "id": "B", "text": "To produce and sustain sperm cells" },
+      { "id": "C", "text": "To fertilize the egg cells" },
+      { "id": "D", "text": "To support the female reproductive system" }
     ],
     "correct": "B"
   },
   {
-    "question": "What made Mexica markets unique compared to European markets?",
+    "question": "What are the TWO overall purposes of the female reproductive system?",
     "answers": [
-      { "id": "A", "text": "Fewer goods available" },
-      { "id": "B", "text": "Only available to the elite" },
-      { "id": "C", "text": "More goods available" },
-      { "id": "D", "text": "Only open on special occasions" }
+      { "id": "A", "text": "To produce and sustain egg cells, and to support the male reproductive system" },
+      { "id": "B", "text": "To nurture the developing offspring and fertilize the sperm cells" },
+      { "id": "C", "text": "To produce and sustain egg cells, and to nurture the developing offspring" },
+      { "id": "D", "text": "To release hormones and provide nutrients for sperm cells" }
     ],
     "correct": "C"
   },
   {
-    "question": "What was the role of nobles in the Mexica empire?",
+    "question": "What happens when identical twins are formed?",
     "answers": [
-      { "id": "A", "text": "Warriors" },
-      { "id": "B", "text": "Farmers" },
-      { "id": "C", "text": "Merchants" },
-      { "id": "D", "text": "Priests" }
+      { "id": "A", "text": "Two sperm fertilize two different eggs" },
+      { "id": "B", "text": "One sperm fertilizes one egg which then splits in two" },
+      { "id": "C", "text": "One egg splits into two before being fertilized" },
+      { "id": "D", "text": "Two sperm fertilize one egg" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What happens when fraternal twins are formed?",
+    "answers": [
+      { "id": "A", "text": "One sperm fertilizes one egg which then splits" },
+      { "id": "B", "text": "Two sperm fertilize one egg" },
+      { "id": "C", "text": "Two sperm fertilize two different eggs" },
+      { "id": "D", "text": "One egg splits into two before being fertilized by two different sperm" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Why is seminal fluid important?",
+    "answers": [
+      { "id": "A", "text": "It provides oxygen for sperm cells" },
+      { "id": "B", "text": "It supports the female reproductive system" },
+      { "id": "C", "text": "It provides nutrients for sperm" },
+      { "id": "D", "text": "It helps to produce more sperm cells" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is ovulation?",
+    "answers": [
+      { "id": "A", "text": "The release of hormones by the ovary" },
+      { "id": "B", "text": "The fertilization of an egg by a sperm cell" },
+      { "id": "C", "text": "The egg released from the ovary into the fallopian tube" },
+      { "id": "D", "text": "The preparation of the uterus for pregnancy" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Where does fertilization take place?",
+    "answers": [
+      { "id": "A", "text": "In the uterus" },
+      { "id": "B", "text": "In the ovary" },
+      { "id": "C", "text": "In the fallopian tube" },
+      { "id": "D", "text": "In the vagina" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which hormone is primarily involved in triggering ovulation?",
+    "answers": [
+      { "id": "A", "text": "Estrogen" },
+      { "id": "B", "text": "Progesterone" },
+      { "id": "C", "text": "Luteinizing hormone (LH)" },
+      { "id": "D", "text": "Follicle-stimulating hormone (FSH)" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the role of the epididymis in the male reproductive system?",
+    "answers": [
+      { "id": "A", "text": "Production of testosterone" },
+      { "id": "B", "text": "Storage and maturation of sperm cells" },
+      { "id": "C", "text": "Transport of urine" },
+      { "id": "D", "text": "Production of sperm cells" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is the main function of the fallopian tubes?",
+    "answers": [
+      { "id": "A", "text": "To carry urine from the bladder to the outside of the body" },
+      { "id": "B", "text": "To produce female sex hormones" },
+      { "id": "C", "text": "To transport the ova from the ovaries to the uterus" },
+      { "id": "D", "text": "To protect the ova from pathogens" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which part of the female reproductive system is the site of implantation of a fertilized egg?",
+    "answers": [
+      { "id": "A", "text": "Vagina" },
+      { "id": "B", "text": "Cervix" },
+      { "id": "C", "text": "Uterus" },
+      { "id": "D", "text": "Fallopian tubes" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the significance of the testes being located in the scrotum outside the body?",
+    "answers": [
+      { "id": "A", "text": "To provide more space for other organs" },
+      { "id": "B", "text": "For protection against abdominal cavity pressure" },
+      { "id": "C", "text": "To facilitate a cooler temperature necessary for sperm production" },
+      { "id": "D", "text": "To enhance hormone secretion" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "During which phase of the menstrual cycle does the lining of the uterus thicken in preparation for a possible pregnancy?",
+    "answers": [
+      { "id": "A", "text": "Menstrual phase" },
+      { "id": "B", "text": "Follicular phase" },
+      { "id": "C", "text": "Ovulatory phase" },
+      { "id": "D", "text": "Luteal phase" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Which part of the male reproductive system is responsible for the production of semen?",
+    "answers": [
+      { "id": "A", "text": "Epididymis" },
+      { "id": "B", "text": "Vas deferens" },
+      { "id": "C", "text": "Seminal vesicles" },
+      { "id": "D", "text": "Urethra" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "How many chromosomes are found in a human sperm cell?",
+    "answers": [
+      { "id": "A", "text": "23 pairs" },
+      { "id": "B", "text": "46 individual" },
+      { "id": "C", "text": "23 individual" },
+      { "id": "D", "text": "92 individual" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which term describes the process by which the ovary releases a mature egg?",
+    "answers": [
+      { "id": "A", "text": "Menstruation" },
+      { "id": "B", "text": "Fertilization" },
+      { "id": "C", "text": "Ovulation" },
+      { "id": "D", "text": "Implantation" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the primary purpose of the uterus?",
+    "answers": [
+      { "id": "A", "text": "To produce female sex hormones" },
+      { "id": "B", "text": "To receive, retain, and nourish a fertilized ovum" },
+      { "id": "C", "text": "To serve as a passageway for sperm to reach the fallopian tubes" },
+      { "id": "D", "text": "To provide a place for the egg to mature before ovulation" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which cells are directly involved in the process of fertilization?",
+    "answers": [
+      { "id": "A", "text": "Egg and sperm cells" },
+      { "id": "B", "text": "Blood cells" },
+      { "id": "C", "text": "Skin cells" },
+      { "id": "D", "text": "Nerve cells" }
     ],
     "correct": "A"
   },
   {
-    "question": "What was the significance of the Mexica's solar calendar?",
+    "question": "What structure is the sperm cell first deposited into during intercourse?",
     "answers": [
-      { "id": "A", "text": "It was only for religious events" },
-      { "id": "B", "text": "It represented cycles associated with religion and solar years" },
-      { "id": "C", "text": "It was used primarily for agriculture" },
-      { "id": "D", "text": "It had no religious significance" }
+      { "id": "A", "text": "Uterus" },
+      { "id": "B", "text": "Ovary" },
+      { "id": "C", "text": "Vagina" },
+      { "id": "D", "text": "Fallopian tube" }
     ],
-    "correct": "B"
+    "correct": "C"
+  },
+  {
+    "question": "What is the role of the cervix in the female reproductive system?",
+    "answers": [
+      { "id": "A", "text": "To release the egg during ovulation" },
+      { "id": "B", "text": "To produce female sex hormones" },
+      { "id": "C", "text": "To act as a gateway between the vagina and uterus" },
+      { "id": "D", "text": "To nourish the developing fetus" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which of the following is a primary sex characteristic in males?",
+    "answers": [
+      { "id": "A", "text": "Deepening of the voice" },
+      { "id": "B", "text": "Development of facial hair" },
+      { "id": "C", "text": "Growth of testes" },
+      { "id": "D", "text": "Increased muscle mass" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which hormone is responsible for the development of secondary sex characteristics in females?",
+    "answers": [
+      { "id": "A", "text": "Testosterone" },
+      { "id": "B", "text": "Insulin" },
+      { "id": "C", "text": "Estrogen" },
+      { "id": "D", "text": "Adrenaline" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the function of the seminal vesicles?",
+    "answers": [
+      { "id": "A", "text": "To produce sperm cells" },
+      { "id": "B", "text": "To transport sperm from the testes to the penis" },
+      { "id": "C", "text": "To store sperm cells" },
+      { "id": "D", "text": "To secrete a fluid that is part of the semen" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Which phase of the menstrual cycle is characterized by the shedding of the uterine lining?",
+    "answers": [
+      { "id": "A", "text": "Proliferative phase" },
+      { "id": "B", "text": "Secretory phase" },
+      { "id": "C", "text": "Menstrual phase" },
+      { "id": "D", "text": "Luteal phase" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the term for the fusion of an egg and sperm cell's nuclei?",
+    "answers": [
+      { "id": "A", "text": "Mitosis" },
+      { "id": "B", "text": "Meiosis" },
+      { "id": "C", "text": "Syngamy" },
+      { "id": "D", "text": "Cytokinesis" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What part of the female reproductive anatomy is also known as the birth canal?",
+    "answers": [
+      { "id": "A", "text": "Cervix" },
+      { "id": "B", "text": "Uterus" },
+      { "id": "C", "text": "Vagina" },
+      { "id": "D", "text": "Ovary" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which of the following best describes the acrosome reaction?",
+    "answers": [
+      { "id": "A", "text": "The reaction in the female body to sperm entry" },
+      { "id": "B", "text": "The process by which sperm develop flagella" },
+      { "id": "C", "text": "The release of digestive enzymes from the sperm to penetrate the egg" },
+      { "id": "D", "text": "The thickening of the semen to form a plug after ejaculation" }
+    ],
+    "correct": "C"
   }
 ]
