@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { Modal, Button, Container, Row, Col } from 'react-bootstrap';
 import BiologyQuiz from '../Components/BiologyQuiz';
-import questions from '../Biology/lesson1/questions.json'; // Path to the JSON file
+import questions from '../Biology/lesson2/questions.json'; // Path to the JSON file
 
-const BiologyLessons = () => {
+const BiologyLessons2 = () => {
   const [showModal, setShowModal] = useState(false);
 
   const handleClose = () => setShowModal(false);
@@ -21,7 +21,7 @@ const BiologyLessons = () => {
 
       <Modal show={showModal} onHide={handleClose} size="lg" centered>
         <Modal.Header closeButton>
-          <Modal.Title>Biology Quiz</Modal.Title>
+          <Modal.Title>Biology Quiz - Lesson 2</Modal.Title>
         </Modal.Header>
         <Modal.Body>
           <BiologyQuiz questions={questions} />
@@ -36,4 +36,4 @@ const BiologyLessons = () => {
   );
 };
 
-export default BiologyLessons;
+export default BiologyLessons2;

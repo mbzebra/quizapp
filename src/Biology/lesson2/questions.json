@@ -1,174 +1,192 @@
-
 [
   {
-    "question": "What was a key feature of political structure in the Maya civilization?",
+    "question": "Which organ protects and nourishes the developing fetus in females?",
     "answers": [
-      { "id": "A", "text": "Centralized government" },
-      { "id": "B", "text": "Decentralized city-states" },
-      { "id": "C", "text": "Democratic councils" },
-      { "id": "D", "text": "Nomadic leadership" }
+      { "id": "A", "text": "Placenta" },
+      { "id": "B", "text": "Uterus" },
+      { "id": "C", "text": "Fallopian tube" },
+      { "id": "D", "text": "Ovary" }
     ],
     "correct": "B"
   },
   {
-    "question": "Maya kings claimed their authority through:",
+    "question": "What part of the testes produces sperm?",
     "answers": [
-      { "id": "A", "text": "Economic power" },
-      { "id": "B", "text": "Divine descent/support" },
-      { "id": "C", "text": "Military conquest" },
-      { "id": "D", "text": "Electoral processes" }
+      { "id": "A", "text": "Vas deferens" },
+      { "id": "B", "text": "Epididymis" },
+      { "id": "C", "text": "Seminiferous tubules" },
+      { "id": "D", "text": "Prostate gland" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the structure near the testes where sperm reach maturity?",
+    "answers": [
+      { "id": "A", "text": "Scrotum" },
+      { "id": "B", "text": "Urethra" },
+      { "id": "C", "text": "Epididymis" },
+      { "id": "D", "text": "Vas deferens" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What tube carries sperm from the epididymis to the urethra?",
+    "answers": [
+      { "id": "A", "text": "Ureter" },
+      { "id": "B", "text": "Ejaculatory duct" },
+      { "id": "C", "text": "Vas deferens" },
+      { "id": "D", "text": "Penile duct" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the male sex hormone?",
+    "answers": [
+      { "id": "A", "text": "Estrogen" },
+      { "id": "B", "text": "Progesterone" },
+      { "id": "C", "text": "Testosterone" },
+      { "id": "D", "text": "Androgen" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which hormone regulates the release of eggs and the development of female characteristics?",
+    "answers": [
+      { "id": "A", "text": "Testosterone" },
+      { "id": "B", "text": "Estrogen" },
+      { "id": "C", "text": "Progesterone" },
+      { "id": "D", "text": "Oxytocin" }
     ],
     "correct": "B"
   },
   {
-    "question": "What type of government did the Maya have?",
+    "question": "What female sex hormone maintains pregnancy?",
     "answers": [
-      { "id": "A", "text": "Democracy" },
-      { "id": "B", "text": "Oligarchy" },
-      { "id": "C", "text": "Theocracy" },
-      { "id": "D", "text": "Monarchy" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Which is NOT a major city-state of the Maya civilization?",
-    "answers": [
-      { "id": "A", "text": "Tikal (Mutal)" },
-      { "id": "B", "text": "Palenque" },
-      { "id": "C", "text": "Teotihuacan" },
-      { "id": "D", "text": "Calakmul (Kaan)" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "The Maya are noted for building impressive:",
-    "answers": [
-      { "id": "A", "text": "Aqueducts" },
-      { "id": "B", "text": "Ziggurats" },
-      { "id": "C", "text": "Pyramids" },
-      { "id": "D", "text": "Colosseums" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Maya astronomical calculations were oriented toward:",
-    "answers": [
-      { "id": "A", "text": "Navigation" },
-      { "id": "B", "text": "Astrological signs" },
-      { "id": "C", "text": "Movement of the sun" },
-      { "id": "D", "text": "Agricultural cycles" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "The Maya developed a writing system that included:",
-    "answers": [
-      { "id": "A", "text": "Writing on stone" },
-      { "id": "B", "text": "Writing on bark covered with plaster" },
-      { "id": "C", "text": "Hieroglyphics on papyrus" },
-      { "id": "D", "text": "Writing on metal sheets" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "A significant loss of Mayan written history occurred due to:",
-    "answers": [
-      { "id": "A", "text": "Natural disasters" },
-      { "id": "B", "text": "Conquest by rival civilizations" },
-      { "id": "C", "text": "Accidental fires" },
-      { "id": "D", "text": "Books being burned by Spaniards" }
+      { "id": "A", "text": "Estrogen" },
+      { "id": "B", "text": "Oxytocin" },
+      { "id": "C", "text": "Follicle-stimulating hormone" },
+      { "id": "D", "text": "Progesterone" }
     ],
     "correct": "D"
   },
   {
-    "question": "The Maya number system was distinctive because it included:",
+    "question": "What type of reproduction only requires one parent and produces offspring identical to the parent?",
     "answers": [
-      { "id": "A", "text": "The concept of zero" },
-      { "id": "B", "text": "Decimal system" },
-      { "id": "C", "text": "Only prime numbers" },
-      { "id": "D", "text": "A base of 12" }
+      { "id": "A", "text": "Sexual reproduction" },
+      { "id": "B", "text": "Asexual reproduction" },
+      { "id": "C", "text": "Binary fission" },
+      { "id": "D", "text": "Mitotic reproduction" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is the tube that carries eggs from the ovaries to the uterus and is the site of fertilization?",
+    "answers": [
+      { "id": "A", "text": "Vas deferens" },
+      { "id": "B", "text": "Urethra" },
+      { "id": "C", "text": "Cervical canal" },
+      { "id": "D", "text": "Fallopian tube" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What structure connects the uterus to the outside of the body?",
+    "answers": [
+      { "id": "A", "text": "Vulva" },
+      { "id": "B", "text": "Vagina" },
+      { "id": "C", "text": "Cervix" },
+      { "id": "D", "text": "Urethral opening" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What structure produces eggs?",
+    "answers": [
+      { "id": "A", "text": "Uterus" },
+      { "id": "B", "text": "Fallopian tube" },
+      { "id": "C", "text": "Ovaries" },
+      { "id": "D", "text": "Graafian follicle" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which organ produces sperm and contains seminiferous tubules?",
+    "answers": [
+      { "id": "A", "text": "Prostate" },
+      { "id": "B", "text": "Testes" },
+      { "id": "C", "text": "Vas deferens" },
+      { "id": "D", "text": "Epididymis" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is the female sex cell called?",
+    "answers": [
+      { "id": "A", "text": "Egg" },
+      { "id": "B", "text": "Sperm" },
+      { "id": "C", "text": "Zygote" },
+      { "id": "D", "text": "Embryo" }
     ],
     "correct": "A"
   },
   {
-    "question": "The Maya predicted astronomical events such as:",
+    "question": "What is the male sex cell called?",
     "answers": [
-      { "id": "A", "text": "Solar flares" },
-      { "id": "B", "text": "Meteor showers" },
-      { "id": "C", "text": "Comets" },
-      { "id": "D", "text": "Eclipses" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "What was the “Long Count” in the Mayan calendar?",
-    "answers": [
-      { "id": "A", "text": "A short-term agricultural calendar" },
-      { "id": "B", "text": "A record of kings’ reigns" },
-      { "id": "C", "text": "A count of daily market activities" },
-      { "id": "D", "text": "An extended cycle of creation and destruction" }
-    ],
-    "correct": "D"
-  },
-  {
-    "question": "Which factor is NOT mentioned as a potential cause for the collapse of the Maya civilization?",
-    "answers": [
-      { "id": "A", "text": "Population growth" },
-      { "id": "B", "text": "Overfarming" },
-      { "id": "C", "text": "Invasion by outsiders" },
-      { "id": "D", "text": "Drought" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Deforestation in Maya civilization was a result of:",
-    "answers": [
-      { "id": "A", "text": "Fuel for fires" },
-      { "id": "B", "text": "Expansion of agricultural land" },
-      { "id": "C", "text": "Building materials" },
-      { "id": "D", "text": "Overhunting" }
+      { "id": "A", "text": "Egg" },
+      { "id": "B", "text": "Sperm" },
+      { "id": "C", "text": "Zygote" },
+      { "id": "D", "text": "Embryo" }
     ],
     "correct": "B"
   },
   {
-    "question": "The collapse of the Maya civilization is attributed to its complexity and:",
+    "question": "What fluid contains sperm and seminal fluid?",
     "answers": [
-      { "id": "A", "text": "Strong central leadership" },
-      { "id": "B", "text": "Isolation from trade" },
-      { "id": "C", "text": "Growing too large for available resources" },
-      { "id": "D", "text": "Sudden disappearance" }
+      { "id": "A", "text": "Urine" },
+      { "id": "B", "text": "Plasma" },
+      { "id": "C", "text": "Semen" },
+      { "id": "D", "text": "Cervical mucus" }
     ],
     "correct": "C"
   },
   {
-    "question": "What exacerbated the problems leading to the Maya civilization's collapse?",
+    "question": "What is the external organ in males that allows sperm to exit the body through the urethra?",
     "answers": [
-      { "id": "A", "text": "Religious upheaval" },
-      { "id": "B", "text": "Political intrigue" },
-      { "id": "C", "text": "Drought" },
-      { "id": "D", "text": "Technological stagnation" }
+      { "id": "A", "text": "Scrotum" },
+      { "id": "B", "text": "Prostate" },
+      { "id": "C", "text": "Penis" },
+      { "id": "D", "text": "Testicle" }
     ],
     "correct": "C"
   },
   {
-    "question": "After the collapse, many Maya people:",
+    "question": "What process involves a sperm and an egg fusing together?",
     "answers": [
-      { "id": "A", "text": "Migrated to Europe" },
-      { "id": "B", "text": "Became nomadic hunters" },
-      { "id": "C", "text": "Lived in small farming communities" },
-      { "id": "D", "text": "Were assimilated into other cultures" }
+      { "id": "A", "text": "Ovulation" },
+      { "id": "B", "text": "Menstruation" },
+      { "id": "C", "text": "Fertilization" },
+      { "id": "D", "text": "Implantation" }
     ],
     "correct": "C"
   },
   {
-    "question": "The phrase “Rawr!” on the notes most likely indicates:",
+    "question": "What is the cell called that results from fertilization?",
     "answers": [
-      { "id": "A", "text": "A student’s boredom" },
-      { "id": "B", "text": "A reference to dinosaurs" },
-      { "id": "C", "text": "A personal note or doodle" },
-      { "id": "D", "text": "A significant historical event" }
+      { "id": "A", "text": "Embryo" },
+      { "id": "B", "text": "Fetus" },
+      { "id": "C", "text": "Blastocyst" },
+      { "id": "D", "text": "Zygote" }
     ],
-    "correct": "C"
+    "correct": "D"
+  },
+  {
+    "question": "What type of reproduction requires two parents and produces offspring with a combination of genetic material from both?",
+    "answers": [
+      { "id": "A", "text": "Asexual reproduction" },
+      { "id": "B", "text": "Sexual reproduction" },
+      { "id": "C", "text": "Cloning" },
+      { "id": "D", "text": "Binary fission" }
+    ],
+    "correct": "B"
   }
 ]
-
