@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Button, Card, ListGroup, Container } from 'react-bootstrap';
 
 const HistoryQuiz = ({ questions }) => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -27,59 +28,70 @@ const HistoryQuiz = ({ questions }) => {
 
   const [submitted, setSubmitted] = useState(false);
 
-    const handleSubmit = () => {
-      setShowScore(true);
-      setSubmitted(true);
-    };
+  const handleSubmit = () => {
+    setShowScore(true);
+    setSubmitted(true);
+  };
 
-    const isCorrect = (index) => {
-      return questions[index].correct === userAnswers[index];
-    };
+  const isCorrect = (index) => {
+    return questions[index].correct === userAnswers[index];
+  };
 
-    return (
-  <div>
-    {showScore ? (
-      <div className="summary">
-        <h2>You scored {score} out of {questions.length}</h2>
-        <h3>Test Summary:</h3>
-        <ul>
-          {questions.map((question, index) => (
-            <li key={index}>
-              <div>{index + 1}. {question.question}</div>
-              <ul className="option-list">
-                {question.answers.map((answer) => (
-                  <li key={answer.id} style={{
-                    color: userAnswers[index] === question.correct
-                      ? (answer.id === userAnswers[index] ? 'green' : 'black')
-                      : (answer.id === question.correct ? 'green' : (answer.id === userAnswers[index] ? 'red' : 'black'))
-                  }}>
-                    {answer.text}
-                  </li>
-                ))}
-              </ul>
-            </li>
-          ))}
-        </ul>
-      </div>
-    ) : (
-          <div>
-            <h2>Question {currentQuestion + 1}</h2>
-            <div>{questions[currentQuestion].question}</div>
-            {questions[currentQuestion].answers.map((answer) => (
-              <button
-                key={answer.id}
-                onClick={() => handleAnswer(answer.id)}
-                disabled={submitted}
-                className="answer-button"
-              >
-                {answer.text}
-              </button>
+  return (
+    <Card>
+      {showScore ? (
+        <Card.Body>
+          <Card.Title>You scored {score} out of {questions.length}</Card.Title>
+          <Card.Text>
+            Test Summary:
+          </Card.Text>
+          <ListGroup variant="flush">
+            {questions.map((question, index) => (
+              <ListGroup.Item key={index}>
+                <div>{index + 1}. {question.question}</div>
+                <ListGroup variant="flush">
+                  {question.answers.map((answer) => (
+                    <ListGroup.Item
+                      key={answer.id}
+                      style={{
+                        color: userAnswers[index] === question.correct
+                          ? (answer.id === userAnswers[index] ? 'green' : 'black')
+                          : (answer.id === question.correct ? 'green' : (answer.id === userAnswers[index] ? 'red' : 'black'))
+                      }}>
+                      {answer.text}
+                    </ListGroup.Item>
+                  ))}
+                </ListGroup>
+              </ListGroup.Item>
             ))}
-          </div>
-        )}
-      </div>
-    );
-  }
+          </ListGroup>
+        </Card.Body>
+      ) : (
 
-  export default HistoryQuiz;
+        <Container>
+        <Card className="mb-3"> {/* mb-3 adds margin at the bottom of each Card */}
+          <Card.Header>Question {currentQuestion + 1}</Card.Header>
+        <Card.Body>
+          <Card.Text>
+            <strong>{questions[currentQuestion].question}</strong>
+          </Card.Text>
+          {questions[currentQuestion].answers.map((answer) => (
+            <Button
+              key={answer.id}
+              onClick={() => handleAnswer(answer.id)}
+              disabled={submitted}
+              className="w-100 mb-2"
+              variant="outline-primary"
+            >
+              {answer.text}
+            </Button>
+          ))}
+        </Card.Body>
+        </Card>
+        </Container>
+      )}
+    </Card>
+  );
+};
 
+export default HistoryQuiz;

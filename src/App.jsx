@@ -2,21 +2,8 @@ import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import NavBar from './NavBar';
 import Home from './Home'; // Import your other components accordingly
-import HistoryLessons1 from './Pages/HistoryLessons1';
-import HistoryLessons2 from './Pages/HistoryLessons2';
-import HistoryLessons3 from './Pages/HistoryLessons3';
-import HistoryLessons4 from './Pages/HistoryLessons4';
-import HistoryLessons5 from './Pages/HistoryLessons5';
-import HistoryLessons6 from './Pages/HistoryLessons6';
-import HistoryLessons7 from './Pages/HistoryLessons7';
-import HistoryLessons8 from './Pages/HistoryLessons8';
-import HistoryLessons9 from './Pages/HistoryLessons9';
-import HistoryLessons10 from './Pages/HistoryLessons10';
-import BiologyLessons1 from './Pages/BiologyLessons1';
-import BiologyLessons2 from './Pages/BiologyLessons2';
-import BiologyLessons3 from './Pages/BiologyLessons3';
-import BiologyLessons4 from './Pages/BiologyLessons4';
-import BiologyLessons5 from './Pages/BiologyLessons5';
+import HistoryLesson from './Pages/HistoryLesson';
+import BiologyLesson from './Pages/BiologyLesson';
 
 import Physics from './Physics';
 
@@ -26,21 +13,8 @@ const App = () => {
       <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/history/lesson1" element={<HistoryLessons1 />} />
-        <Route path="/history/lesson2" element={<HistoryLessons2 />} />
-        <Route path="/history/lesson3" element={<HistoryLessons3 />} />
-        <Route path="/history/lesson4" element={<HistoryLessons4 />} />
-        <Route path="/history/lesson5" element={<HistoryLessons5 />} />
-        <Route path="/history/lesson6" element={<HistoryLessons6 />} />
-        <Route path="/history/lesson7" element={<HistoryLessons7 />} />
-        <Route path="/history/lesson8" element={<HistoryLessons8 />} />
-        <Route path="/history/lesson9" element={<HistoryLessons9 />} />
-        <Route path="/history/lesson10" element={<HistoryLessons10 />} />
-        <Route path="/biology/lesson1" element={<BiologyLessons1 />} />
-        <Route path="/biology/lesson2" element={<BiologyLessons2 />} />
-        <Route path="/biology/lesson3" element={<BiologyLessons3 />} />
-        <Route path="/biology/lesson4" element={<BiologyLessons4 />} />
-        <Route path="/biology/lesson5" element={<BiologyLessons5 />} />
+        <Route path="/history-lesson/:lessonNumber" element={<HistoryLesson />} />
+        <Route path="/biology-lesson/:lessonNumber" element={<BiologyLesson />} />
         <Route path="/physics/lesson1" element={<Physics />} />
         {/* ... other routes */}
       </Routes>

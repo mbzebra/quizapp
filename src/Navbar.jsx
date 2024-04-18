@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink, Link } from 'react-router-dom';
 import { Navbar, Nav, NavDropdown } from 'react-bootstrap';
 
 const NavBar = () => {
@@ -10,7 +10,7 @@ const NavBar = () => {
   };
 
   return (
-    <Navbar bg="dark" variant="dark" expand="lg">
+    <Navbar bg="light" expand="lg" className="m-0 p-0">
       <Navbar.Brand href="/">QuizApp</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
@@ -25,17 +25,17 @@ const NavBar = () => {
             onMouseEnter={() => toggleDropdown('History')}
             onMouseLeave={() => toggleDropdown('')}
           >
-            <NavDropdown.Item as={NavLink} to="/history/lesson1">Lesson 1</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/history/lesson2">Lesson 2</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/history/lesson3">Lesson 3</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/history/lesson4">Lesson 4</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/history/lesson5">Lesson 5</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/history/lesson6">Lesson 6</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/history/lesson7">Lesson 7</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/history/lesson8">Lesson 8</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/history/lesson9">Lesson 9</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/history/lesson10">Lesson 10</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/history/lesson11">Lesson 11</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/history-lesson/1">Lesson 1</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/history-lesson/2">Lesson 2</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/history-lesson/3">Lesson 3</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/history-lesson/4">Lesson 4</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/history-lesson/5">Lesson 5</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/history-lesson/6">Lesson 6</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/history-lesson/7">Lesson 7</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/history-lesson/8">Lesson 8</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/history-lesson/9">Lesson 9</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/history-lesson/10">Lesson 10</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/history-lesson/11">Lesson 11</NavDropdown.Item>
             {/* ... more history lessons */}
           </NavDropdown>
 
@@ -47,14 +47,13 @@ const NavBar = () => {
             onMouseEnter={() => toggleDropdown('Biology')}
             onMouseLeave={() => toggleDropdown('')}
           >
-            <NavDropdown.Item as={NavLink} to="/biology/lesson1">Lesson 1</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/biology/lesson2">Lesson 2</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/biology/lesson3">Lesson 3</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/biology/lesson4">Lesson 4</NavDropdown.Item>
-            <NavDropdown.Item as={NavLink} to="/biology/lesson5">Lesson 5</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/biology-lesson/1">Lesson 1</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/biology-lesson/2">Lesson 2</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/biology-lesson/3">Lesson 3</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/biology-lesson/4">Lesson 4</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/biology-lesson/5">Lesson 5</NavDropdown.Item>
             {/* ... more biology lessons */}
           </NavDropdown>
-
           {/* ... other nav links ... */}
         </Nav>
       </Navbar.Collapse>

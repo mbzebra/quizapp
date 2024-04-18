@@ -15,10 +15,8 @@ const Home = () => {
       <Row className="justify-content-md-center">
         <Col md={8} className="text-center">
           <h1>Welcome to the Learning Portal</h1>
-          <p>
             Explore various subjects and improve your knowledge. Choose from the topics above to get started!
              <BookGallery images={images} />
-          </p>
         </Col>
       </Row>
     </Container>
