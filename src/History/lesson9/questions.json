@@ -1,301 +1,211 @@
 [
   {
-    "question": "Who led the overthrow of the Umayyad Dynasty to start the Abbasid Dynasty?",
+    "question": "In which year did Genghis Khan die?",
     "answers": [
-      { "id": "A", "text": "Harun al-Rashid" },
-      { "id": "B", "text": "Abu al-Abbas" },
-      { "id": "C", "text": "Saladin" },
-      { "id": "D", "text": "Suleiman the Magnificent" }
+      { "id": "A", "text": "1225" },
+      { "id": "B", "text": "1226" },
+      { "id": "C", "text": "1227" },
+      { "id": "D", "text": "1228" }
     ],
-    "correct": "B"
+    "correct": "C"
   },
   {
-    "question": "Until what year did the Abbasid Dynasty control the Caliphate?",
+    "question": "What was the cause of Genghis Khan's death according to the notes?",
     "answers": [
-      { "id": "A", "text": "1258" },
-      { "id": "B", "text": "1492" },
-      { "id": "C", "text": "1923" },
-      { "id": "D", "text": "1862" }
+      { "id": "A", "text": "Natural causes" },
+      { "id": "B", "text": "In battle" },
+      { "id": "C", "text": "Assassination" },
+      { "id": "D", "text": "Unknown" }
     ],
     "correct": "A"
   },
   {
-    "question": "The Islamic Golden Age is noted for:",
+    "question": "Who became the Great Khan after Genghis Khan's death in 1229?",
     "answers": [
-      { "id": "A", "text": "Economic decline" },
-      { "id": "B", "text": "Technological regression" },
-      { "id": "C", "text": "Economic prosperity" },
-      { "id": "D", "text": "Military expansion" }
+      { "id": "A", "text": "Mongke" },
+      { "id": "B", "text": "Kublai" },
+      { "id": "C", "text": "Ogedei" },
+      { "id": "D", "text": "Tolui" }
     ],
     "correct": "C"
   },
   {
-    "question": "What was one significant scientific advancement during the Islamic Golden Age?",
+    "question": "Which region did the Mongol Empire not send armies to after Genghis Khan's death?",
     "answers": [
-      { "id": "A", "text": "The invention of the compass" },
-      { "id": "B", "text": "The invention of algebra" },
-      { "id": "C", "text": "Discovery of the New World" },
-      { "id": "D", "text": "The creation of the first vaccine" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "What did the Abbasids adopt from Persian culture?",
-    "answers": [
-      { "id": "A", "text": "The concept of zero" },
-      { "id": "B", "text": "Many elements, including administrative practices" },
-      { "id": "C", "text": "Buddhism" },
-      { "id": "D", "text": "Confucianism" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "What was the new capital city founded by the Abbasids?",
-    "answers": [
-      { "id": "A", "text": "Cairo" },
-      { "id": "B", "text": "Mecca" },
-      { "id": "C", "text": "Baghdad" },
-      { "id": "D", "text": "Damascus" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "During the Abbasid rule, who was allowed to serve in government positions?",
-    "answers": [
-      { "id": "A", "text": "Only Arabs" },
-      { "id": "B", "text": "Non-Arabs and Arabs alike" },
-      { "id": "C", "text": "Only Persians" },
-      { "id": "D", "text": "Only the Caliph's family" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "What was the main reason for astronomical observation in the Islamic Golden Age?",
-    "answers": [
-      { "id": "A", "text": "Navigating the seas" },
-      { "id": "B", "text": "Predicting the future" },
-      { "id": "C", "text": "Knowing the direction of Mecca for prayer" },
-      { "id": "D", "text": "Mapping the stars for mythology" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "What instrument, used to calculate position and time of day based on the sun and stars, was invented during the Islamic Golden Age?",
-    "answers": [
-      { "id": "A", "text": "Telescope" },
-      { "id": "B", "text": "Sextant" },
-      { "id": "C", "text": "Astrolabe" },
-      { "id": "D", "text": "Chronometer" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Which new architectural elements were seen in mosques during the Islamic Golden Age?",
-    "answers": [
-      { "id": "A", "text": "Pointed arches, domes, minarets, hypostyle, mihrab" },
-      { "id": "B", "text": "Flying buttresses and stained glass" },
-      { "id": "C", "text": "Gargoyles and spires" },
-      { "id": "D", "text": "Pillars and frescoes" }
-    ],
-    "correct": "A"
-  },
-  {
-    "question": "In the context of Islamic empires, what was notable about slavery?",
-    "answers": [
-      { "id": "A", "text": "Only non-Muslims could be enslaved" },
-      { "id": "B", "text": "Muslims could not enslave other Muslims" },
-      { "id": "C", "text": "Slavery was completely forbidden" },
-      { "id": "D", "text": "All slaves were automatically freed upon conversion" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Where were many enslaved people in the Islamic empires captured from?",
-    "answers": [
-      { "id": "A", "text": "Eastern Europe" },
-      { "id": "B", "text": "Sub-Saharan Africa" },
-      { "id": "C", "text": "South America" },
-      { "id": "D", "text": "Southeast Asia" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "According to Islamic teachings, women were seen as what in relation to men?",
-    "answers": [
-      { "id": "A", "text": "Spiritual and social equals" },
-      { "id": "B", "text": "Political leaders" },
-      { "id": "C", "text": "Not allowed to exercise rights" },
-      { "id": "D", "text": "Entirely subservient" }
-    ],
-    "correct": "A"
-  },
-  {
-    "question": "What led to major conflicts during the decline of the Abbasid Dynasty?",
-    "answers": [
-      { "id": "A", "text": "Invasion by Crusaders" },
-      { "id": "B", "text": "Succession arguments" },
-      { "id": "C", "text": "Natural disasters" },
-      { "id": "D", "text": "A plague outbreak" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "What group took political power from the Abbasid caliphs around 1055?",
-    "answers": [
-      { "id": "A", "text": "The Mamluks" },
-      { "id": "B", "text": "The Mongols" },
-      { "id": "C", "text": "The Seljuk Turks" },
-      { "id": "D", "text": "The Crusaders" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Who conquered the Abbasid Empire in 1258?",
-    "answers": [
-      { "id": "A", "text": "The Ottoman Turks" },
-      { "id": "B", "text": "The Mongols" },
-      { "id": "C", "text": "The Crusaders" },
-      { "id": "D", "text": "The Mamluks" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Which area was not conquered by the Umayyads?",
-    "answers": [
-      { "id": "A", "text": "North Africa" },
-      { "id": "B", "text": "Iberian Peninsula" },
-      { "id": "C", "text": "Central Europe" },
-      { "id": "D", "text": "Anatolia" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "What was a key factor in the further diffusion of Islam after the decline of the Abbasid Dynasty?",
-    "answers": [
-      { "id": "A", "text": "Missionary work only" },
-      { "id": "B", "text": "Trade only" },
-      { "id": "C", "text": "Conquest and trade" },
-      { "id": "D", "text": "Diplomatic relations" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "Who founded the Delhi Sultanate in 1206?",
-    "answers": [
-      { "id": "A", "text": "Ottoman Turks" },
-      { "id": "B", "text": "Ghurid sultans" },
-      { "id": "C", "text": "Mughal emperors" },
-      { "id": "D", "text": "Umayyad caliphs" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Which trade route was important for the diffusion of Islam to West Africa?",
-    "answers": [
-      { "id": "A", "text": "Silk Road" },
-      { "id": "B", "text": "Trans-Saharan Trade" },
-      { "id": "C", "text": "Indian Ocean Trade" },
-      { "id": "D", "text": "Amber Road" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "Which Islamic dynasty controlled the Caliphate until 1258?",
-    "answers": [
-      { "id": "A", "text": "Umayyad" },
-      { "id": "B", "text": "Fatimid" },
-      { "id": "C", "text": "Abbasid" },
-      { "id": "D", "text": "Ottoman" }
-    ],
-    "correct": "C"
-  },
-  {
-    "question": "The Islamic Golden Age is often referred to as:",
-    "answers": [
-      { "id": "A", "text": "Umayyad Apex" },
-      { "id": "B", "text": "Abbasid Zenith" },
-      { "id": "C", "text": "Fatimid Peak" },
-      { "id": "D", "text": "Islamic Golden Age" }
+      { "id": "A", "text": "East Asia" },
+      { "id": "B", "text": "Middle East" },
+      { "id": "C", "text": "Europe" },
+      { "id": "D", "text": "Australia" }
     ],
     "correct": "D"
   },
   {
-    "question": "Which numeral system did the Islamic Golden Age adopt from India?",
+    "question": "By what year had the Mongols conquered all three main states of China?",
     "answers": [
-      { "id": "A", "text": "Roman numerals" },
-      { "id": "B", "text": "Arabic numerals" },
-      { "id": "C", "text": "Greek numerals" },
-      { "id": "D", "text": "Babylonian numerals" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "What was one architectural innovation seen in mosques during the Islamic Golden Age?",
-    "answers": [
-      { "id": "A", "text": "Hypostyle" },
-      { "id": "B", "text": "Gothic arches" },
-      { "id": "C", "text": "Transepts" },
-      { "id": "D", "text": "Flying buttresses" }
+      { "id": "A", "text": "1279" },
+      { "id": "B", "text": "1235" },
+      { "id": "C", "text": "1240" },
+      { "id": "D", "text": "1221" }
     ],
     "correct": "A"
   },
   {
-    "question": "What did the Abbasid caliphs start acting like, which was a change from previous norms?",
+    "question": "What was the Mongol Empire's approach to religion?",
     "answers": [
-      { "id": "A", "text": "Commoners" },
-      { "id": "B", "text": "Military leaders" },
-      { "id": "C", "text": "Royalty" },
-      { "id": "D", "text": "Religious figures" }
+      { "id": "A", "text": "Enforced a single state religion" },
+      { "id": "B", "text": "Religious intolerance" },
+      { "id": "C", "text": "Religious tolerance" },
+      { "id": "D", "text": "Banned all religions" }
     ],
     "correct": "C"
   },
   {
-    "question": "Which empire did the Ottoman Turks conquer?",
+    "question": "The traditional Mongol religion was primarily:",
     "answers": [
-      { "id": "A", "text": "Byzantine Empire" },
-      { "id": "B", "text": "Holy Roman Empire" },
-      { "id": "C", "text": "Persian Empire" },
-      { "id": "D", "text": "Mongol Empire" }
+      { "id": "A", "text": "Buddhism" },
+      { "id": "B", "text": "Shamanistic" },
+      { "id": "C", "text": "Christianity" },
+      { "id": "D", "text": "Islam" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What strategy did the Mongols use to manage the Silk Road?",
+    "answers": [
+      { "id": "A", "text": "Neglect" },
+      { "id": "B", "text": "Taxation" },
+      { "id": "C", "text": "Revitalization/Protection" },
+      { "id": "D", "text": "Closure" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "The Mongol Empire was known for its:",
+    "answers": [
+      { "id": "A", "text": "Naval power" },
+      { "id": "B", "text": "Innovative rule" },
+      { "id": "C", "text": "Democratic governance" },
+      { "id": "D", "text": "Cultural homogeneity" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "The Mongol Empire stopped expanding into Western Europe after failing to hold which territory?",
+    "answers": [
+      { "id": "A", "text": "France" },
+      { "id": "B", "text": "Germany" },
+      { "id": "C", "text": "Poland" },
+      { "id": "D", "text": "Ukraine (Kiev)" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Which battle in the Middle East marked a stop to Mongol expansion?",
+    "answers": [
+      { "id": "A", "text": "Battle of Ain Jalut" },
+      { "id": "B", "text": "Battle of Hattin" },
+      { "id": "C", "text": "Siege of Baghdad" },
+      { "id": "D", "text": "Battle of Yarmouk" }
     ],
     "correct": "A"
   },
   {
-    "question": "Which statement about women in Islamic society is true according to the Quran?",
+    "question": "What was the Mongol Empire's stance on people's religious preferences?",
     "answers": [
-      { "id": "A", "text": "Women could be political leaders" },
-      { "id": "B", "text": "Women were spiritual and social equals to men" },
-      { "id": "C", "text": "Women were not allowed to inherit property" },
-      { "id": "D", "text": "Women were not allowed to work" }
-    ],
-    "correct": "B"
-  },
-  {
-    "question": "What led to the breakup of the Abbasid Empire?",
-    "answers": [
-      { "id": "A", "text": "Military defeats by the Mongols" },
-      { "id": "B", "text": "Natural disasters" },
-      { "id": "C", "text": "Succession arguments and corruption" },
-      { "id": "D", "text": "Economic bankruptcy" }
+      { "id": "A", "text": "Forced conversion" },
+      { "id": "B", "text": "Persecution" },
+      { "id": "C", "text": "Freedom to worship" },
+      { "id": "D", "text": "Indifference" }
     ],
     "correct": "C"
   },
   {
-    "question": "Which Islamic Empire broke away under the Fatimid Dynasty?",
+    "question": "Ogedei Khan died in the year:",
     "answers": [
-      { "id": "A", "text": "Iberia" },
-      { "id": "B", "text": "Egypt" },
-      { "id": "C", "text": "Syria" },
-      { "id": "D", "text": "Persia" }
+      { "id": "A", "text": "1240" },
+      { "id": "B", "text": "1241" },
+      { "id": "C", "text": "1242" },
+      { "id": "D", "text": "1243" }
     ],
     "correct": "B"
   },
   {
-    "question": "Which trade network was instrumental for Islamic trade in Indonesia?",
+    "question": "After the death of Ogedei, the Mongol Empire was divided into how many parts?",
     "answers": [
-      { "id": "A", "text": "Silk Road" },
-      { "id": "B", "text": "Trans-Saharan Trade" },
-      { "id": "C", "text": "Indian Ocean Trade" },
-      { "id": "D", "text": "Amber Road" }
+      { "id": "A", "text": "Two" },
+      { "id": "B", "text": "Three" },
+      { "id": "C", "text": "Four" },
+      { "id": "D", "text": "Five" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which Khanate did the Yuan Dynasty rule over?",
+    "answers": [
+      { "id": "A", "text": "Chagatai Khanate" },
+      { "id": "B", "text": "Ilkhanate" },
+      { "id": "C", "text": "Khanate of the Great Khan" },
+      { "id": "D", "text": "Khanate of the Golden Horde" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "The Ilkhanate was based in:",
+    "answers": [
+      { "id": "A", "text": "China" },
+      { "id": "B", "text": "Persia" },
+      { "id": "C", "text": "Russia" },
+      { "id": "D", "text": "Central Asia" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "The Khanate of the Golden Horde predominantly ruled over which region?",
+    "answers": [
+      { "id": "A", "text": "Mongolia" },
+      { "id": "B", "text": "Persia" },
+      { "id": "C", "text": "Russia/Ukraine" },
+      { "id": "D", "text": "Central Asia" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What did the Mongol Empire do to bureaucrats and artisans for better efficiency?",
+    "answers": [
+      { "id": "A", "text": "Exiled them" },
+      { "id": "B", "text": "Enslaved them" },
+      { "id": "C", "text": "Forced relocation" },
+      { "id": "D", "text": "Offered them autonomy" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Cultural mixing in the Mongol Empire resulted in the spread of:",
+    "answers": [
+      { "id": "A", "text": "Diseases" },
+      { "id": "B", "text": "Information/technology" },
+      { "id": "C", "text": "Military tactics" },
+      { "id": "D", "text": "Religious conflict" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "How much of the Silk Road did the Mongols control and protect?",
+    "answers": [
+      { "id": "A", "text": "Half of its length" },
+      { "id": "B", "text": "Only the Asian part" },
+      { "id": "C", "text": "The entire length" },
+      { "id": "D", "text": "Only the European part" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What characterized Mongol rule according to the notes?",
+    "answers": [
+      { "id": "A", "text": "Inefficiency" },
+      { "id": "B", "text": "Tyranny" },
+      { "id": "C", "text": "Innovation" },
+      { "id": "D", "text": "Stagnation" }
     ],
     "correct": "C"
   }

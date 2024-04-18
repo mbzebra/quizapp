@@ -11,7 +11,9 @@ import HistoryLessons6 from './Pages/HistoryLessons6';
 import HistoryLessons7 from './Pages/HistoryLessons7';
 import HistoryLessons8 from './Pages/HistoryLessons8';
 import HistoryLessons9 from './Pages/HistoryLessons9';
-import Biology from './Biology';
+import HistoryLessons10 from './Pages/HistoryLessons10';
+import BiologyLessons1 from './Pages/BiologyLessons1';
+
 import Physics from './Physics';
 
 const App = () => {
@@ -29,7 +31,8 @@ const App = () => {
         <Route path="/history/lesson7" element={<HistoryLessons7 />} />
         <Route path="/history/lesson8" element={<HistoryLessons8 />} />
         <Route path="/history/lesson9" element={<HistoryLessons9 />} />
-        <Route path="/biology/lesson1" element={<Biology />} />
+        <Route path="/history/lesson10" element={<HistoryLessons10 />} />
+        <Route path="/biology/lesson1" element={<BiologyLessons1 />} />
         <Route path="/physics/lesson1" element={<Physics />} />
         {/* ... other routes */}
       </Routes>

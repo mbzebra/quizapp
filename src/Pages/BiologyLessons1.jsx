@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Modal, Button, Container, Row, Col } from 'react-bootstrap';
-import HistoryQuiz from '../Components/HistoryQuiz';
-import questions from '../History/lesson1/questions.json'; // Path to the JSON file
+import HistoryQuiz from '../Components/BiologyQuiz';
+import questions from '../Biology/lesson1/questions.json'; // Path to the JSON file
 
 const HistoryLessons = () => {
   const [showModal, setShowModal] = useState(false);
