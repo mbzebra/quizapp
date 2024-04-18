@@ -50,6 +50,8 @@ const NavBar = () => {
             <NavDropdown.Item as={NavLink} to="/biology/lesson1">Lesson 1</NavDropdown.Item>
             <NavDropdown.Item as={NavLink} to="/biology/lesson2">Lesson 2</NavDropdown.Item>
             <NavDropdown.Item as={NavLink} to="/biology/lesson3">Lesson 3</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/biology/lesson4">Lesson 4</NavDropdown.Item>
+            <NavDropdown.Item as={NavLink} to="/biology/lesson5">Lesson 5</NavDropdown.Item>
             {/* ... more biology lessons */}
           </NavDropdown>
 

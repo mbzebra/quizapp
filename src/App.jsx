@@ -15,6 +15,8 @@ import HistoryLessons10 from './Pages/HistoryLessons10';
 import BiologyLessons1 from './Pages/BiologyLessons1';
 import BiologyLessons2 from './Pages/BiologyLessons2';
 import BiologyLessons3 from './Pages/BiologyLessons3';
+import BiologyLessons4 from './Pages/BiologyLessons4';
+import BiologyLessons5 from './Pages/BiologyLessons5';
 
 import Physics from './Physics';
 
@@ -37,6 +39,8 @@ const App = () => {
         <Route path="/biology/lesson1" element={<BiologyLessons1 />} />
         <Route path="/biology/lesson2" element={<BiologyLessons2 />} />
         <Route path="/biology/lesson3" element={<BiologyLessons3 />} />
+        <Route path="/biology/lesson4" element={<BiologyLessons4 />} />
+        <Route path="/biology/lesson5" element={<BiologyLessons5 />} />
         <Route path="/physics/lesson1" element={<Physics />} />
         {/* ... other routes */}
       </Routes>
