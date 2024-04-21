@@ -13,7 +13,7 @@ const QuizDetails = () => {
     const fetchQuizDetails = async () => {
       setLoading(true);
       try {
-        const response = await axios.get(`http://localhost:3001/api/retrieveResults/${quizId}`);
+        const response = await axios.get(`http://192.168.4.223:3001/api/retrieveResults/${quizId}`);
         setQuizDetails(response.data.results);
       } catch (err) {
         setError('Failed to fetch quiz details');

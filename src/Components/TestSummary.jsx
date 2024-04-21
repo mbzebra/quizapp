@@ -8,7 +8,7 @@ const TestSummary = ({ quizId }) => {
   useEffect(() => {
     const fetchResults = async () => {
       try {
-        const response = await axios.get(`http://localhost:3001/api/retrieveResults/${quizId}`);
+        const response = await axios.get(`http://192.168.4.223:3001/api/retrieveResults/${quizId}`);
         if (response.data.results) {
           setResults(response.data.results);
         }

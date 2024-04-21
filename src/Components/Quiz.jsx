@@ -61,7 +61,7 @@ class Quiz extends React.Component {
     };
 
     // POST request to saveResults API
-    axios.post('http://localhost:3001/api/storeResults', data)
+    axios.post('http://192.168.4.223:3001/api/storeResults', data)
       .then(response => {
         console.log('Results saved successfully:', response.data);
         this.props.onQuizComplete(quizId); // Optionally pass the details if needed

@@ -7,7 +7,7 @@ const QuizDashboard = () => {
   const [quizResults, setQuizResults] = useState([]);
 
   useEffect(() => {
-    axios.get('http://localhost:3001/api/quizResults')
+    axios.get('http://192.168.4.223:3001/api/quizResults')
       .then(response => {
         setQuizResults(response.data.results);
       })
