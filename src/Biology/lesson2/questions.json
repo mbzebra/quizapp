@@ -1,0 +1,312 @@
+[
+  {
+    "question": "Which organ protects and nourishes the developing fetus in females?",
+    "answers": [
+      { "id": "A", "text": "Placenta" },
+      { "id": "B", "text": "Uterus" },
+      { "id": "C", "text": "Fallopian tube" },
+      { "id": "D", "text": "Ovary" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What part of the testes produces sperm?",
+    "answers": [
+      { "id": "A", "text": "Vas deferens" },
+      { "id": "B", "text": "Epididymis" },
+      { "id": "C", "text": "Seminiferous tubules" },
+      { "id": "D", "text": "Prostate gland" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the structure near the testes where sperm reach maturity?",
+    "answers": [
+      { "id": "A", "text": "Scrotum" },
+      { "id": "B", "text": "Urethra" },
+      { "id": "C", "text": "Epididymis" },
+      { "id": "D", "text": "Vas deferens" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What tube carries sperm from the epididymis to the urethra?",
+    "answers": [
+      { "id": "A", "text": "Ureter" },
+      { "id": "B", "text": "Ejaculatory duct" },
+      { "id": "C", "text": "Vas deferens" },
+      { "id": "D", "text": "Penile duct" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the male sex hormone?",
+    "answers": [
+      { "id": "A", "text": "Estrogen" },
+      { "id": "B", "text": "Progesterone" },
+      { "id": "C", "text": "Testosterone" },
+      { "id": "D", "text": "Androgen" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which hormone regulates the release of eggs and the development of female characteristics?",
+    "answers": [
+      { "id": "A", "text": "Testosterone" },
+      { "id": "B", "text": "Estrogen" },
+      { "id": "C", "text": "Progesterone" },
+      { "id": "D", "text": "Oxytocin" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What female sex hormone maintains pregnancy?",
+    "answers": [
+      { "id": "A", "text": "Estrogen" },
+      { "id": "B", "text": "Oxytocin" },
+      { "id": "C", "text": "Follicle-stimulating hormone" },
+      { "id": "D", "text": "Progesterone" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What type of reproduction only requires one parent and produces offspring identical to the parent?",
+    "answers": [
+      { "id": "A", "text": "Sexual reproduction" },
+      { "id": "B", "text": "Asexual reproduction" },
+      { "id": "C", "text": "Binary fission" },
+      { "id": "D", "text": "Mitotic reproduction" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is the tube that carries eggs from the ovaries to the uterus and is the site of fertilization?",
+    "answers": [
+      { "id": "A", "text": "Vas deferens" },
+      { "id": "B", "text": "Urethra" },
+      { "id": "C", "text": "Cervical canal" },
+      { "id": "D", "text": "Fallopian tube" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What structure connects the uterus to the outside of the body?",
+    "answers": [
+      { "id": "A", "text": "Vulva" },
+      { "id": "B", "text": "Vagina" },
+      { "id": "C", "text": "Cervix" },
+      { "id": "D", "text": "Urethral opening" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What structure produces eggs?",
+    "answers": [
+      { "id": "A", "text": "Uterus" },
+      { "id": "B", "text": "Fallopian tube" },
+      { "id": "C", "text": "Ovaries" },
+      { "id": "D", "text": "Graafian follicle" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which organ produces sperm and contains seminiferous tubules?",
+    "answers": [
+      { "id": "A", "text": "Prostate" },
+      { "id": "B", "text": "Testes" },
+      { "id": "C", "text": "Vas deferens" },
+      { "id": "D", "text": "Epididymis" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is the female sex cell called?",
+    "answers": [
+      { "id": "A", "text": "Egg" },
+      { "id": "B", "text": "Sperm" },
+      { "id": "C", "text": "Zygote" },
+      { "id": "D", "text": "Embryo" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What is the male sex cell called?",
+    "answers": [
+      { "id": "A", "text": "Egg" },
+      { "id": "B", "text": "Sperm" },
+      { "id": "C", "text": "Zygote" },
+      { "id": "D", "text": "Embryo" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What fluid contains sperm and seminal fluid?",
+    "answers": [
+      { "id": "A", "text": "Urine" },
+      { "id": "B", "text": "Plasma" },
+      { "id": "C", "text": "Semen" },
+      { "id": "D", "text": "Cervical mucus" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the external organ in males that allows sperm to exit the body through the urethra?",
+    "answers": [
+      { "id": "A", "text": "Scrotum" },
+      { "id": "B", "text": "Prostate" },
+      { "id": "C", "text": "Penis" },
+      { "id": "D", "text": "Testicle" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What process involves a sperm and an egg fusing together?",
+    "answers": [
+      { "id": "A", "text": "Ovulation" },
+      { "id": "B", "text": "Menstruation" },
+      { "id": "C", "text": "Fertilization" },
+      { "id": "D", "text": "Implantation" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the cell called that results from fertilization?",
+    "answers": [
+      { "id": "A", "text": "Embryo" },
+      { "id": "B", "text": "Fetus" },
+      { "id": "C", "text": "Blastocyst" },
+      { "id": "D", "text": "Zygote" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What type of reproduction requires two parents and produces offspring with a combination of genetic material from both?",
+    "answers": [
+      { "id": "A", "text": "Asexual reproduction" },
+      { "id": "B", "text": "Sexual reproduction" },
+      { "id": "C", "text": "Cloning" },
+      { "id": "D", "text": "Binary fission" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which structure stores the mature sperm?",
+    "answers": [
+      { "id": "A", "text": "Prostate gland" },
+      { "id": "B", "text": "Seminal vesicle" },
+      { "id": "C", "text": "Epididymis" },
+      { "id": "D", "text": "Urethra" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the main female reproductive hormone?",
+    "answers": [
+      { "id": "A", "text": "Testosterone" },
+      { "id": "B", "text": "Progesterone" },
+      { "id": "C", "text": "Estrogen" },
+      { "id": "D", "text": "Luteinizing hormone" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which term describes the release of an egg from the ovary?",
+    "answers": [
+      { "id": "A", "text": "Menstruation" },
+      { "id": "B", "text": "Fertilization" },
+      { "id": "C", "text": "Ovulation" },
+      { "id": "D", "text": "Implantation" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which hormone triggers ovulation?",
+    "answers": [
+      { "id": "A", "text": "Follicle-stimulating hormone" },
+      { "id": "B", "text": "Estrogen" },
+      { "id": "C", "text": "Progesterone" },
+      { "id": "D", "text": "Luteinizing hormone" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Where does implantation of the embryo typically occur?",
+    "answers": [
+      { "id": "A", "text": "Ovary" },
+      { "id": "B", "text": "Uterus" },
+      { "id": "C", "text": "Fallopian tube" },
+      { "id": "D", "text": "Vagina" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which part of the male reproductive system is responsible for producing seminal fluid?",
+    "answers": [
+      { "id": "A", "text": "Epididymis" },
+      { "id": "B", "text": "Seminal vesicles" },
+      { "id": "C", "text": "Prostate gland" },
+      { "id": "D", "text": "Bulbourethral glands" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which process occurs in the female reproductive cycle where the lining of the uterus is shed?",
+    "answers": [
+      { "id": "A", "text": "Ovulation" },
+      { "id": "B", "text": "Menstruation" },
+      { "id": "C", "text": "Fertilization" },
+      { "id": "D", "text": "Implantation" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is the term for the male gonads where spermatogenesis occurs?",
+    "answers": [
+      { "id": "A", "text": "Prostate" },
+      { "id": "B", "text": "Epididymis" },
+      { "id": "C", "text": "Testes" },
+      { "id": "D", "text": "Vas deferens" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What part of the female reproductive system is also known as the birth canal?",
+    "answers": [
+      { "id": "A", "text": "Uterus" },
+      { "id": "B", "text": "Vagina" },
+      { "id": "C", "text": "Cervix" },
+      { "id": "D", "text": "Fallopian tube" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which hormone is primarily involved in the development of male secondary sexual characteristics?",
+    "answers": [
+      { "id": "A", "text": "Estrogen" },
+      { "id": "B", "text": "Testosterone" },
+      { "id": "C", "text": "Progesterone" },
+      { "id": "D", "text": "Luteinizing hormone" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is the term for the fusion of sperm and egg nuclei?",
+    "answers": [
+      { "id": "A", "text": "Fertilization" },
+      { "id": "B", "text": "Conception" },
+      { "id": "C", "text": "Syngamy" },
+      { "id": "D", "text": "Implantation" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which part of the sperm contains the DNA?",
+    "answers": [
+      { "id": "A", "text": "Acrosome" },
+      { "id": "B", "text": "Head" },
+      { "id": "C", "text": "Midpiece" },
+      { "id": "D", "text": "Tail" }
+    ],
+    "correct": "B"
+  }
+]

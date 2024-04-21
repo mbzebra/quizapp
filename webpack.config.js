@@ -15,6 +15,13 @@ module.exports = {
           loader: 'babel-loader',
         },
       },
+            {
+              test: /\.css$/,
+              use: [
+                'style-loader', // Creates `style` nodes from JS strings
+                'css-loader',   // Translates CSS into CommonJS
+              ],
+            },
     ],
   },
   resolve: {

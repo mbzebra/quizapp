@@ -1,32 +1,26 @@
 import React from 'react';
+import { Container, Row, Col } from 'react-bootstrap';
+import ImageQuizComponent from './Components/ImageQuizComponent';
+
+const images = [
+  { src: 'images/1.jpg', alt: 'First slide', label: 'First Slide', description: 'This is the first slide' },
+  { src: 'images/2.jpg', alt: 'Second slide', label: 'Second Slide', description: 'This is the second slide' },
+  { src: 'images/3.jpg', alt: 'third slide', label: 'third Slide', description: 'This is the third slide' },
+
+  // Add more images as needed
+];
+
 
 const Home = () => {
   return (
-    <div style={styles.container}>
-      <h1 style={styles.heading}>Welcome to the Learning Portal</h1>
-      <p style={styles.paragraph}>
-        Explore various subjects and improve your knowledge. Choose from the topics above to get started!
-      </p>
-    </div>
+    <Container>
+      <Row className="justify-content-md-center">
+        <Col md={8} className="text-center">
+             <ImageQuizComponent images={images} lessonName="History Lesson"/>
+        </Col>
+      </Row>
+    </Container>
   );
-};
-
-const styles = {
-  container: {
-    textAlign: 'center',
-    padding: '50px',
-    maxWidth: '600px',
-    margin: 'auto',
-  },
-  heading: {
-    marginBottom: '20px',
-    color: '#333',
-  },
-  paragraph: {
-    fontSize: '18px',
-    lineHeight: '1.6',
-    color: '#555',
-  },
 };
 
 export default Home;

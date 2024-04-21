@@ -1,0 +1,212 @@
+[
+  {
+    "question": "In which year did Genghis Khan die?",
+    "answers": [
+      { "id": "A", "text": "1225" },
+      { "id": "B", "text": "1226" },
+      { "id": "C", "text": "1227" },
+      { "id": "D", "text": "1228" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the cause of Genghis Khan's death according to the notes?",
+    "answers": [
+      { "id": "A", "text": "Natural causes" },
+      { "id": "B", "text": "In battle" },
+      { "id": "C", "text": "Assassination" },
+      { "id": "D", "text": "Unknown" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Who became the Great Khan after Genghis Khan's death in 1229?",
+    "answers": [
+      { "id": "A", "text": "Mongke" },
+      { "id": "B", "text": "Kublai" },
+      { "id": "C", "text": "Ogedei" },
+      { "id": "D", "text": "Tolui" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which region did the Mongol Empire not send armies to after Genghis Khan's death?",
+    "answers": [
+      { "id": "A", "text": "East Asia" },
+      { "id": "B", "text": "Middle East" },
+      { "id": "C", "text": "Europe" },
+      { "id": "D", "text": "Australia" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "By what year had the Mongols conquered all three main states of China?",
+    "answers": [
+      { "id": "A", "text": "1279" },
+      { "id": "B", "text": "1235" },
+      { "id": "C", "text": "1240" },
+      { "id": "D", "text": "1221" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What was the Mongol Empire's approach to religion?",
+    "answers": [
+      { "id": "A", "text": "Enforced a single state religion" },
+      { "id": "B", "text": "Religious intolerance" },
+      { "id": "C", "text": "Religious tolerance" },
+      { "id": "D", "text": "Banned all religions" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "The traditional Mongol religion was primarily:",
+    "answers": [
+      { "id": "A", "text": "Buddhism" },
+      { "id": "B", "text": "Shamanistic" },
+      { "id": "C", "text": "Christianity" },
+      { "id": "D", "text": "Islam" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What strategy did the Mongols use to manage the Silk Road?",
+    "answers": [
+      { "id": "A", "text": "Neglect" },
+      { "id": "B", "text": "Taxation" },
+      { "id": "C", "text": "Revitalization/Protection" },
+      { "id": "D", "text": "Closure" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "The Mongol Empire was known for its:",
+    "answers": [
+      { "id": "A", "text": "Naval power" },
+      { "id": "B", "text": "Innovative rule" },
+      { "id": "C", "text": "Democratic governance" },
+      { "id": "D", "text": "Cultural homogeneity" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "The Mongol Empire stopped expanding into Western Europe after failing to hold which territory?",
+    "answers": [
+      { "id": "A", "text": "France" },
+      { "id": "B", "text": "Germany" },
+      { "id": "C", "text": "Poland" },
+      { "id": "D", "text": "Ukraine (Kiev)" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Which battle in the Middle East marked a stop to Mongol expansion?",
+    "answers": [
+      { "id": "A", "text": "Battle of Ain Jalut" },
+      { "id": "B", "text": "Battle of Hattin" },
+      { "id": "C", "text": "Siege of Baghdad" },
+      { "id": "D", "text": "Battle of Yarmouk" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What was the Mongol Empire's stance on people's religious preferences?",
+    "answers": [
+      { "id": "A", "text": "Forced conversion" },
+      { "id": "B", "text": "Persecution" },
+      { "id": "C", "text": "Freedom to worship" },
+      { "id": "D", "text": "Indifference" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Ogedei Khan died in the year:",
+    "answers": [
+      { "id": "A", "text": "1240" },
+      { "id": "B", "text": "1241" },
+      { "id": "C", "text": "1242" },
+      { "id": "D", "text": "1243" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "After the death of Ogedei, the Mongol Empire was divided into how many parts?",
+    "answers": [
+      { "id": "A", "text": "Two" },
+      { "id": "B", "text": "Three" },
+      { "id": "C", "text": "Four" },
+      { "id": "D", "text": "Five" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which Khanate did the Yuan Dynasty rule over?",
+    "answers": [
+      { "id": "A", "text": "Chagatai Khanate" },
+      { "id": "B", "text": "Ilkhanate" },
+      { "id": "C", "text": "Khanate of the Great Khan" },
+      { "id": "D", "text": "Khanate of the Golden Horde" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "The Ilkhanate was based in:",
+    "answers": [
+      { "id": "A", "text": "China" },
+      { "id": "B", "text": "Persia" },
+      { "id": "C", "text": "Russia" },
+      { "id": "D", "text": "Central Asia" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "The Khanate of the Golden Horde predominantly ruled over which region?",
+    "answers": [
+      { "id": "A", "text": "Mongolia" },
+      { "id": "B", "text": "Persia" },
+      { "id": "C", "text": "Russia/Ukraine" },
+      { "id": "D", "text": "Central Asia" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What did the Mongol Empire do to bureaucrats and artisans for better efficiency?",
+    "answers": [
+      { "id": "A", "text": "Exiled them" },
+      { "id": "B", "text": "Enslaved them" },
+      { "id": "C", "text": "Forced relocation" },
+      { "id": "D", "text": "Offered them autonomy" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Cultural mixing in the Mongol Empire resulted in the spread of:",
+    "answers": [
+      { "id": "A", "text": "Diseases" },
+      { "id": "B", "text": "Information/technology" },
+      { "id": "C", "text": "Military tactics" },
+      { "id": "D", "text": "Religious conflict" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "How much of the Silk Road did the Mongols control and protect?",
+    "answers": [
+      { "id": "A", "text": "Half of its length" },
+      { "id": "B", "text": "Only the Asian part" },
+      { "id": "C", "text": "The entire length" },
+      { "id": "D", "text": "Only the European part" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What characterized Mongol rule according to the notes?",
+    "answers": [
+      { "id": "A", "text": "Inefficiency" },
+      { "id": "B", "text": "Tyranny" },
+      { "id": "C", "text": "Innovation" },
+      { "id": "D", "text": "Stagnation" }
+    ],
+    "correct": "C"
+  }
+]
