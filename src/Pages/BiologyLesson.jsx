@@ -38,7 +38,7 @@ const BiologyLesson = () => {
         </Modal.Header>
         <Modal.Body>
           {questions ? (
-            <BiologyQuiz questions={questions} />
+                <BiologyQuiz questions={questions} quizName={`Biology Quiz ${lessonNumber}`} />
           ) : (
             <div>Loading questions...</div>
           )}

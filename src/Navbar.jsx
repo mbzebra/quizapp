@@ -14,9 +14,13 @@ const NavBar = () => {
       <Navbar.Brand href="/">QuizApp</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
+
+         <Nav className="mr-auto">
+            <Nav.Link as={NavLink} to="/dashboard">Dashboard</Nav.Link>
+            {/* Other nav links and dropdowns */}
+          </Nav>
         <Nav className="mr-auto">
           {/* Other nav links */}
-
           {/* History Dropdown */}
           <NavDropdown
             title="History"
