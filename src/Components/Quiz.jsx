@@ -23,12 +23,11 @@ class Quiz extends React.Component {
     const question = questions[currentQuestion];
     const isCorrect = answerId === question.correct;
 
-    // Update the details with user answer and question info
     const updatedDetails = [
       ...details,
       {
         question: question.question,
-        options: question.answers.map(a => a.text), // Collect all answer texts
+        options: question.answers.map(a => a.text),
         selectedAnswer: question.answers.find(a => a.id === answerId).text,
         correctAnswer: question.answers.find(a => a.id === question.correct).text,
       }
@@ -37,16 +36,18 @@ class Quiz extends React.Component {
     this.setState({
       details: updatedDetails,
       score: isCorrect ? score + 1 : score
+    }, () => {
+      // This callback ensures we are only moving to the next question or saving results
+      // after the state has been fully updated.
+      const nextQuestion = currentQuestion + 1;
+      if (nextQuestion < questions.length) {
+        this.setState({ currentQuestion: nextQuestion });
+      } else {
+        this.setState({ showScore: true }, this.saveResults); // Save results after state update
+      }
     });
-
-    const nextQuestion = currentQuestion + 1;
-    if (nextQuestion < questions.length) {
-      this.setState({ currentQuestion: nextQuestion });
-    } else {
-      this.setState({ showScore: true });
-      this.saveResults(); // Save results when quiz is complete
-    }
   };
+
 
   saveResults = () => {
     const { score, details, quizId  } = this.state;

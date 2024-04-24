@@ -1,23 +1,27 @@
 import React, { useState, useEffect } from 'react';
 import { Modal, Button, Container, Row, Col } from 'react-bootstrap';
 import { useParams } from 'react-router-dom';
-import BiologyQuiz from '../Components/BiologyQuiz'; // Ensure this path is correct
+import SubjectQuiz from '../Components/SubjectQuiz'; // Updated import, ensure this path is correct
 
-const BiologyLesson = () => {
+const SubjectLesson = ()  => {
   const [showModal, setShowModal] = useState(false);
   const [questions, setQuestions] = useState(null);
-  const { lessonNumber } = useParams();
+  const { subject, lessonNumber } = useParams();
 
   useEffect(() => {
-    import(`../Biology/lesson${lessonNumber}/questions.json`)
-      .then((data) => {
-        // If your JSON is not using default export, adjust this line accordingly
-        setQuestions(data.default);
-      })
-      .catch((error) => {
-        console.error("Failed to load questions", error);
-      });
-  }, [lessonNumber]); // Dependency array ensures this effect only reruns if lessonNumber changes
+
+    if (subject && lessonNumber) {
+    console.log('i am here');
+      // Dynamic import based on the subject and lesson number
+      import(`../${subject}/lesson${lessonNumber}/questions.json`)
+        .then((data) => {
+          setQuestions(data.default); // or just data if it's not a default export
+        })
+        .catch((error) => {
+          console.error(`Failed to load questions for ${subject} lesson ${lessonNumber}`, error);
+        });
+    }
+  }, [subject, lessonNumber]);
 
   const handleClose = () => setShowModal(false);
   const handleShow = () => setShowModal(true);
@@ -27,18 +31,18 @@ const BiologyLesson = () => {
       <Row className="justify-content-center align-self-center w-100">
         <Col xs={12} className="text-center">
           <Button variant="primary" onClick={handleShow}>
-            Start Quiz - Lesson - { lessonNumber }
+            Start Quiz - Lesson {lessonNumber}
           </Button>
         </Col>
       </Row>
 
       <Modal show={showModal} onHide={handleClose} size="lg" centered>
         <Modal.Header closeButton>
-          <Modal.Title>Biology Quiz {lessonNumber}</Modal.Title>
+          <Modal.Title>{subject} Quiz {lessonNumber}</Modal.Title>
         </Modal.Header>
         <Modal.Body>
           {questions ? (
-                <BiologyQuiz questions={questions} quizName={`Biology Quiz ${lessonNumber}`} />
+            <SubjectQuiz questions={questions} quizName={`${subject} Quiz ${lessonNumber}`} />
           ) : (
             <div>Loading questions...</div>
           )}
@@ -53,4 +57,4 @@ const BiologyLesson = () => {
   );
 };
 
-export default BiologyLesson;
+export default SubjectLesson;

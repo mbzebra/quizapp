@@ -1,0 +1,22 @@
+"use strict";
+/*
+ * ATTENTION: The "eval" devtool has been used (maybe by default in mode: "development").
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(self["webpackChunkquizapp"] = self["webpackChunkquizapp"] || []).push([["src_biology_lesson5_questions_json"],{
+
+/***/ "./src/biology/lesson5/questions.json":
+/*!********************************************!*\
+  !*** ./src/biology/lesson5/questions.json ***!
+  \********************************************/
+/***/ ((module) => {
+
+eval("module.exports = /*#__PURE__*/JSON.parse('[{\"question\":\"What makes up the central nervous system?\",\"answers\":[{\"id\":\"A\",\"text\":\"Heart and Lungs\"},{\"id\":\"B\",\"text\":\"Brain and Spinal Cord\"},{\"id\":\"C\",\"text\":\"Liver and Kidneys\"},{\"id\":\"D\",\"text\":\"Muscles and Tendons\"}],\"correct\":\"B\"},{\"question\":\"What does the peripheral nervous system do?\",\"answers\":[{\"id\":\"A\",\"text\":\"Controls voluntary movements of the body\"},{\"id\":\"B\",\"text\":\"Controls the heart and lungs\"},{\"id\":\"C\",\"text\":\"Regulates body temperature\"},{\"id\":\"D\",\"text\":\"Maintains homeostasis\"}],\"correct\":\"A\"},{\"question\":\"What does the autonomic nervous system regulate?\",\"answers\":[{\"id\":\"A\",\"text\":\"Digestion and breathing\"},{\"id\":\"B\",\"text\":\"Voluntary muscle movement\"},{\"id\":\"C\",\"text\":\"Reflex actions\"},{\"id\":\"D\",\"text\":\"Blood cell production\"}],\"correct\":\"A\"},{\"question\":\"What is the primary function of the sympathetic nervous system?\",\"answers\":[{\"id\":\"A\",\"text\":\"To stimulate \\'rest and digest\\' activities\"},{\"id\":\"B\",\"text\":\"To decrease heart rate and breathing\"},{\"id\":\"C\",\"text\":\"To prepare the body for \\'fight or flight\\' response\"},{\"id\":\"D\",\"text\":\"To coordinate voluntary muscle movements\"}],\"correct\":\"C\"},{\"question\":\"What is the difference between nerves and neurons?\",\"answers\":[{\"id\":\"A\",\"text\":\"Nerves are cells; neurons are bundles of cells\"},{\"id\":\"B\",\"text\":\"Nerves send electrical signals; neurons receive them\"},{\"id\":\"C\",\"text\":\"Neurons are individual cells; nerves are bundles of neurons\"},{\"id\":\"D\",\"text\":\"There is no difference; they are the same\"}],\"correct\":\"C\"},{\"question\":\"What do sensory neurons do?\",\"answers\":[{\"id\":\"A\",\"text\":\"Transmit impulses to muscles\"},{\"id\":\"B\",\"text\":\"Contain receptors and send impulses to the brain\"},{\"id\":\"C\",\"text\":\"Receive signals from motor neurons\"},{\"id\":\"D\",\"text\":\"Initiate reflex actions\"}],\"correct\":\"B\"},{\"question\":\"What is the function of motor neurons?\",\"answers\":[{\"id\":\"A\",\"text\":\"To carry impulses from sensory neurons to muscles\"},{\"id\":\"B\",\"text\":\"To detect changes in the environment\"},{\"id\":\"C\",\"text\":\"To send impulses from the brain to muscles for movement\"},{\"id\":\"D\",\"text\":\"To process sensory information\"}],\"correct\":\"C\"},{\"question\":\"What role do interneurons play?\",\"answers\":[{\"id\":\"A\",\"text\":\"Connecting sensory and motor neurons\"},{\"id\":\"B\",\"text\":\"Carrying signals to the brain\"},{\"id\":\"C\",\"text\":\"Initiating the fight or flight response\"},{\"id\":\"D\",\"text\":\"Releasing hormones into the bloodstream\"}],\"correct\":\"A\"},{\"question\":\"Which side of the body does the right side of the brain control?\",\"answers\":[{\"id\":\"A\",\"text\":\"The right side\"},{\"id\":\"B\",\"text\":\"Both sides equally\"},{\"id\":\"C\",\"text\":\"The left side\"},{\"id\":\"D\",\"text\":\"It does not control any side of the body\"}],\"correct\":\"C\"},{\"question\":\"Through what structure do the left and right hemispheres of the brain communicate?\",\"answers\":[{\"id\":\"A\",\"text\":\"Axons\"},{\"id\":\"B\",\"text\":\"Corpus Callosum\"},{\"id\":\"C\",\"text\":\"Spinal Cord\"},{\"id\":\"D\",\"text\":\"Medulla Oblongata\"}],\"correct\":\"B\"}]');\n\n//# sourceURL=webpack://quizapp/./src/biology/lesson5/questions.json?");
+
+/***/ })
+
+}]);
