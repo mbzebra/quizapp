@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the primary Christian church with headquarters in Rome called?",
+    "answers": [
+      { "id": "A", "text": "Eastern Orthodox" },
+      { "id": "B", "text": "Roman Catholic" },
+      { "id": "C", "text": "Anglican" },
+      { "id": "D", "text": "Protestant" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "The Roman Catholic Church in the early centuries heavily emphasized which type of efforts?",
+    "answers": [
+      { "id": "A", "text": "Feudal" },
+      { "id": "B", "text": "Missionary" },
+      { "id": "C", "text": "Commercial" },
+      { "id": "D", "text": "Military" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What unified Europe so culturally that it came to be called 'Christendom'?",
+    "answers": [
+      { "id": "A", "text": "Paganism" },
+      { "id": "B", "text": "Islam" },
+      { "id": "C", "text": "Christianity" },
+      { "id": "D", "text": "Judaism" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What did the Church teach as the only way to achieve salvation?",
+    "answers": [
+      { "id": "A", "text": "Through kings" },
+      { "id": "B", "text": "Through sacraments" },
+      { "id": "C", "text": "Through battles" },
+      { "id": "D", "text": "Through trade" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What hierarchical position did the Pope hold in the Church?",
+    "answers": [
+      { "id": "A", "text": "Treasurer" },
+      { "id": "B", "text": "General" },
+      { "id": "C", "text": "Leader" },
+      { "id": "D", "text": "Advisor" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "The lack of what in Christendom led to corruption in the Church leadership?",
+    "answers": [
+      { "id": "A", "text": "Educational Institutions" },
+      { "id": "B", "text": "Religious Competition" },
+      { "id": "C", "text": "Agricultural Resources" },
+      { "id": "D", "text": "Trade Routes" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Local priests served the Church by representing it to most Europeans and teaching what?",
+    "answers": [
+      { "id": "A", "text": "Noble Etiquette" },
+      { "id": "B", "text": "Military Strategies" },
+      { "id": "C", "text": "Basic Christian Ideas" },
+      { "id": "D", "text": "Economic Policies" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Monasteries and convents were considered large buildings for communities of whom?",
+    "answers": [
+      { "id": "A", "text": "Traders" },
+      { "id": "B", "text": "Monks and Nuns" },
+      { "id": "C", "text": "Soldiers" },
+      { "id": "D", "text": "Artisans" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What did monasteries offer to individuals seeking to concentrate on spirituality?",
+    "answers": [
+      { "id": "A", "text": "Wealth" },
+      { "id": "B", "text": "Escape from medieval peasant life" },
+      { "id": "C", "text": "Political Power" },
+      { "id": "D", "text": "Educational Degrees" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What did monks and nuns have to give up when they joined the monastery or convent?",
+    "answers": [
+      { "id": "A", "text": "Pleasures of Adult Life" },
+      { "id": "B", "text": "Land Ownership" },
+      { "id": "C", "text": "Agricultural Work" },
+      { "id": "D", "text": "Artistic Pursuits" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What was the primary source of education and literacy during the Middle Ages?",
+    "answers": [
+      { "id": "A", "text": "City Councils" },
+      { "id": "B", "text": "Royal Courts" },
+      { "id": "C", "text": "The Church" },
+      { "id": "D", "text": "Merchant Guilds" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was a common practice among monks to preserve ancient texts?",
+    "answers": [
+      { "id": "A", "text": "Copying Them" },
+      { "id": "B", "text": "Translating Them" },
+      { "id": "C", "text": "Selling Them" },
+      { "id": "D", "text": "Burning Them" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What was the Church's role in Europe, being the wealthiest entity?",
+    "answers": [
+      { "id": "A", "text": "Leading Armies" },
+      { "id": "B", "text": "Directing Trade" },
+      { "id": "C", "text": "Owning Land" },
+      { "id": "D", "text": "Providing Entertainment" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the term for the Church's authority over secular rulers?",
+    "answers": [
+      { "id": "A", "text": "Democratic Mandate" },
+      { "id": "B", "text": "Feudal Obligation" },
+      { "id": "C", "text": "Papal Supremacy" },
+      { "id": "D", "text": "Royal Decree" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which method was used by the Church to make disagreeable rulers comply?",
+    "answers": [
+      { "id": "A", "text": "Trade Embargo" },
+      { "id": "B", "text": "Military Intervention" },
+      { "id": "C", "text": "Excommunication" },
+      { "id": "D", "text": "Diplomatic Negotiation" }
+    ],
+    "correct": "C"
+  }
+]
