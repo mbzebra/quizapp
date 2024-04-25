@@ -28,7 +28,7 @@ module.exports = {
     ],
   },
   plugins: [
-        new webpack.EnvironmentPlugin({'REACT_APP_API_BASE_URL': 'http://localhost:3001/api' }),
+        new webpack.EnvironmentPlugin({'REACT_APP_API_BASE_URL' }),
       ],
   resolve: {
     extensions: ['.js', '.jsx'],
