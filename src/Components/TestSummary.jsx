@@ -5,10 +5,12 @@ import { Card, ListGroup } from 'react-bootstrap';
 const TestSummary = ({ quizId }) => {
   const [results, setResults] = useState(null);
 
+  const apiUrl = process.env.REACT_APP_API_BASE_URL;
+
   useEffect(() => {
     const fetchResults = async () => {
       try {
-        const response = await axios.get(`http://192.168.4.223:3001/api/retrieveResults/${quizId}`);
+        const response = await axios.get(`${apiUrl}/retrieveResults/${quizId}`);
         if (response.data.results) {
           setResults(response.data.results);
         }

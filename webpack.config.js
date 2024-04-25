@@ -1,4 +1,7 @@
 const path = require('path');
+const Dotenv = require('dotenv-webpack');
+const webpack = require('webpack'); //to access built-in plugins
+
 
 module.exports = {
   entry: path.resolve(__dirname, 'src', 'index.js'),
@@ -24,6 +27,9 @@ module.exports = {
             },
     ],
   },
+  plugins: [
+        new webpack.EnvironmentPlugin({'REACT_APP_API_BASE_URL': 'http://localhost:3001/api' }),
+      ],
   resolve: {
     extensions: ['.js', '.jsx'],
   },

@@ -9,11 +9,14 @@ const QuizDetails = () => {
   const [error, setError] = useState('');
   const { quizId } = useParams(); // Get quizId from the URL parameters
 
+  const apiUrl = process.env.REACT_APP_API_BASE_URL;
+
+
   useEffect(() => {
     const fetchQuizDetails = async () => {
       setLoading(true);
       try {
-        const response = await axios.get(`http://192.168.4.223:3001/api/retrieveResults/${quizId}`);
+        const response = await axios.get(`${apiUrl}/retrieveResults/${quizId}`);
         setQuizDetails(response.data.results);
       } catch (err) {
         setError('Failed to fetch quiz details');

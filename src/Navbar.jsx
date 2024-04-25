@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import { Navbar, Nav, NavDropdown } from 'react-bootstrap';
+import config from './config.json';  // Make sure the path to config.json is correct
 
 const NavBar = () => {
   const [activeDropdown, setActiveDropdown] = useState('');
-  const subjects = ['History', 'Biology', 'Physics']; // Add more subjects as needed
+  const subjects = Object.keys(config.lessons); // Dynamically load subjects from config
 
   const toggleDropdown = (subject) => {
     setActiveDropdown(activeDropdown === subject ? '' : subject);
@@ -17,7 +18,6 @@ const NavBar = () => {
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
           <Nav.Link as={NavLink} to="/dashboard">Dashboard</Nav.Link>
-          {/* Dynamically generate NavDropdown for each subject */}
           {subjects.map((subject) => (
             <NavDropdown
               key={subject}
@@ -27,12 +27,11 @@ const NavBar = () => {
               onMouseEnter={() => toggleDropdown(subject)}
               onMouseLeave={() => toggleDropdown('')}
             >
-              {[...Array(20)].map((_, index) => (
+              {[...Array(config.lessons[subject])].map((_, index) => (
                 <NavDropdown.Item key={index} as={NavLink} to={`/${subject.toLowerCase()}/${index + 1}`}>
                   Lesson {index + 1}
                 </NavDropdown.Item>
               ))}
-              {/* You can add more lessons if needed */}
             </NavDropdown>
           ))}
         </Nav>

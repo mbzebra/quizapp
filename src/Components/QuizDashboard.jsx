@@ -6,8 +6,10 @@ import { Link } from 'react-router-dom'; // Import Link component
 const QuizDashboard = () => {
   const [quizResults, setQuizResults] = useState([]);
 
+  const apiUrl = process.env.REACT_APP_API_BASE_URL;
+
   useEffect(() => {
-    axios.get('http://192.168.4.223:3001/api/quizResults')
+    axios.get(`${apiUrl}/quizResults`)
       .then(response => {
         setQuizResults(response.data.results);
       })
