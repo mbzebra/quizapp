@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import NavBar from './NavBar';
+import NavBar from './Navbar';
 import Home from './Home';
 import SubjectLesson from './Pages/SubjectLesson'; // Import the generic lesson component
 import QuizDashboard from './Components/QuizDashboard';
