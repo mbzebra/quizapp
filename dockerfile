@@ -11,8 +11,7 @@ RUN npm install
 # Copy the rest of your app's source code
 COPY . .
 
-RUN ls -l /usr/src/app/src
-
+COPY env.dev ./.env
 
 # List installed webpack (debugging purposes)
 RUN npm list webpack
