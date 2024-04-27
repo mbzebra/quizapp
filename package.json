@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "webpack --config webpack.config.js",
     "start": "node server.js",
     "dev": "concurrently \"nodemon server.js\" \"webpack --mode development --watch\""
   },

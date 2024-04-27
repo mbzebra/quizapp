@@ -9,8 +9,8 @@ COPY . .
 
 COPY env.dev ./.env
 
-# Step 4: Install any needed packages specified in package.json
-RUN npm install
+# Build the app
+RUN npm run build
 
 # Step 5: If you are building your code for production
 # RUN npm ci --only=production
