@@ -7,6 +7,8 @@ WORKDIR /usr/src/app
 # Step 3: Copy the current directory contents into the container at /usr/src/app
 COPY . .
 
+COPY .env.dev ./.env
+
 # Step 4: Install any needed packages specified in package.json
 RUN npm install
 
