@@ -19,7 +19,7 @@ RUN npm install
 EXPOSE 3000
 
 # Step 7: Define environment variable
-ENV NODE_ENV=production
+ENV REACT_APP_API_BASE_URL=http://192.168.4.223:3000/api
 
 # Step 8: Run app.js when the container launches
 CMD ["npm", "start"]
