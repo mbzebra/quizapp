@@ -6,10 +6,13 @@ WORKDIR /usr/src/app
 COPY package*.json ./
 
 # Install all dependencies, including devDependencies
-RUN npm install --production=false
+RUN npm install
 
 # Copy the rest of your app's source code
 COPY . .
+
+RUN ls -l /usr/src/app/src
+
 
 # List installed webpack (debugging purposes)
 RUN npm list webpack
