@@ -1,25 +1,22 @@
-# Step 1: Use an official Node runtime as a parent image
 FROM node:latest
 
-# Step 2: Set the working directory in the container
 WORKDIR /usr/src/app
 
-# Step 3: Copy the current directory contents into the container at /usr/src/app
+# Copy package.json and package-lock.json
+COPY package*.json ./
+
+# Install all dependencies, including devDependencies
+RUN npm install --production=false
+
+# Copy the rest of your app's source code
 COPY . .
 
-COPY env.dev ./.env
+# List installed webpack (debugging purposes)
+RUN npm list webpack
 
-# Build the app
+# Build the app using webpack
 RUN npm run build
 
-# Step 5: If you are building your code for production
-# RUN npm ci --only=production
-
-# Step 6: Make port 3000 available to the world outside this container
 EXPOSE 3000
 
-# Step 7: Define environment variable
-ENV REACT_APP_API_BASE_URL=http://192.168.4.223:3001/api
-
-# Step 8: Run app.js when the container launches
 CMD ["npm", "start"]
