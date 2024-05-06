@@ -1,0 +1,206 @@
+[
+
+  {
+    "question": "Who founded the Sui Dynasty?",
+    "answers": [
+      { "id": "A", "text": "Sui Yangdi" },
+      { "id": "B", "text": "Yang Jian" },
+      { "id": "C", "text": "Emperor Wu" },
+      { "id": "D", "text": "Genghis Khan" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What was a significant accomplishment of the Tang Dynasty's foreign policy?",
+    "answers": [
+      { "id": "A", "text": "Maintaining China's isolation" },
+      { "id": "B", "text": "Expanding territory" },
+      { "id": "C", "text": "Creating trade alliances" },
+      { "id": "D", "text": "Establishing a national religion" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "How did the Tang Dynasty address large land estates?",
+    "answers": [
+      { "id": "A", "text": "Distributed them among the nobility" },
+      { "id": "B", "text": "Confiscated them for the state" },
+      { "id": "C", "text": "Broke them up and distributed them to peasants" },
+      { "id": "D", "text": "Turned them into military bases" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "How did the Tang Dynasty ensure a capable bureaucracy?",
+    "answers": [
+      { "id": "A", "text": "Reinstated civil service exams" },
+      { "id": "B", "text": "Appointed officials based on heredity" },
+      { "id": "C", "text": "Hired foreign experts" },
+      { "id": "D", "text": "Used a lottery system" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Why did Buddhism become popular in China after the fall of the Han Dynasty?",
+    "answers": [
+      { "id": "A", "text": "Because Confucianism was seen as too harsh" },
+      { "id": "B", "text": "Because it provided hope and comfort" },
+      { "id": "C", "text": "Because it promised political power" },
+      { "id": "D", "text": "Because it was mandated by the government" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What marked the end of the Tang Dynasty's golden age?",
+    "answers": [
+      { "id": "A", "text": "An Lu-shan Rebellion" },
+      { "id": "B", "text": "Mongol invasion" },
+      { "id": "C", "text": "Economic prosperity" },
+      { "id": "D", "text": "Natural disasters" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What was a key feature of Neo-Confucianism during the Song Dynasty?",
+    "answers": [
+      { "id": "A", "text": "Emphasis on ritual practices" },
+      { "id": "B", "text": "Focus on meditation and enlightenment" },
+      { "id": "C", "text": "Integration of spiritual cosmology" },
+      { "id": "D", "text": "Promotion of trade and commerce" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Who made Neo-Confucianism popular through commentaries?",
+    "answers": [
+      { "id": "A", "text": "Zhu Xi" },
+      { "id": "B", "text": "Cheng Yi" },
+      { "id": "C", "text": "Confucius" },
+      { "id": "D", "text": "Mencius" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What technological advancement did the Tang and Song dynasties contribute to open-ocean voyaging?",
+    "answers": [
+      { "id": "A", "text": "Steel ships" },
+      { "id": "B", "text": "Magnetic compass" },
+      { "id": "C", "text": "Gunpowder" },
+      { "id": "D", "text": "Block printing" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What did the Tang Dynasty temporarily abolish to increase tax revenue?",
+    "answers": [
+      { "id": "A", "text": "Tax-free Buddhist monasteries" },
+      { "id": "B", "text": "Tribute payments" },
+      { "id": "C", "text": "Government salaries" },
+      { "id": "D", "text": "Merchants' guilds" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "How did the Song Dynasty change government service?",
+    "answers": [
+      { "id": "A", "text": "By making civil-service exams the primary entry" },
+      { "id": "B", "text": "By appointing officials based on aristocratic recommendation" },
+      { "id": "C", "text": "By allowing foreign officials to serve" },
+      { "id": "D", "text": "By limiting positions to military officials" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "How did the role of women change during the Song Dynasty?",
+    "answers": [
+      { "id": "A", "text": "They gained more independence" },
+      { "id": "B", "text": "They became prominent in government" },
+      { "id": "C", "text": "They faced increased patriarchy and foot binding" },
+      { "id": "D", "text": "They became influential merchants" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was a key element of the Song Dynasty's philosophy?",
+    "answers": [
+      { "id": "A", "text": "Focus on economic policies" },
+      { "id": "B", "text": "Integration of mysticism and rationalism" },
+      { "id": "C", "text": "Emphasis on military strategy" },
+      { "id": "D", "text": "Support for religious diversity" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What was the purpose of foot binding in Song China?",
+    "answers": [
+      { "id": "A", "text": "To enable women to participate in sports" },
+      { "id": "B", "text": "To improve women's status by marrying wealthier husbands" },
+      { "id": "C", "text": "To enhance women's beauty" },
+      { "id": "D", "text": "To prepare women for religious life" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What was a significant impact of the Mongol invasion of China?",
+    "answers": [
+      { "id": "A", "text": "It led to the spread of Islam" },
+      { "id": "B", "text": "It resulted in the Yuan Dynasty" },
+      { "id": "C", "text": "It caused the Great Wall to be built" },
+      { "id": "D", "text": "It abolished civil service exams" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What was an economic achievement during the Song Dynasty?",
+    "answers": [
+      { "id": "A", "text": "Establishing a barter system" },
+      { "id": "B", "text": "Creating a paper money system" },
+      { "id": "C", "text": "Building massive castles" },
+      { "id": "D", "text": "Introducing feudalism" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is Li in Neo-Confucianism?",
+    "answers": [
+      { "id": "A", "text": "The physical matter that makes up things" },
+      { "id": "B", "text": "A great, invisible orderly pattern of the universe" },
+      { "id": "C", "text": "The Confucian classics" },
+      { "id": "D", "text": "A philosophical treatise" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What led to the decline of the Tang Dynasty?",
+    "answers": [
+      { "id": "A", "text": "Mongol invasions" },
+      { "id": "B", "text": "Corruption and peasant revolts" },
+      { "id": "C", "text": "Natural disasters" },
+      { "id": "D", "text": "Economic prosperity" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What was the purpose of the Grand Canal?",
+    "answers": [
+      { "id": "A", "text": "To connect the Yellow River and Yangtze River" },
+      { "id": "B", "text": "To connect China with neighboring countries" },
+      { "id": "C", "text": "To defend against invasions" },
+      { "id": "D", "text": "To provide a water source for cities" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What did Cheng Yi contribute to Neo-Confucianism?",
+    "answers": [
+      { "id": "A", "text": "A focus on meditation" },
+      { "id": "B", "text": "The ideas of Li and Qi" },
+      { "id": "C", "text": "An emphasis on rituals" },
+      { "id": "D", "text": "A rejection of spirituality" }
+    ],
+    "correct": "B"
+  }
+
+
+]
+
