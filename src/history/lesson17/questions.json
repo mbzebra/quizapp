@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Who was the Muslim historian who documented the eruption of the Tatars into the land of Islam?",
+    "answers": [
+      { "id": "A", "text": "Ibn Battuta" },
+      { "id": "B", "text": "Ibn Khaldun" },
+      { "id": "C", "text": "Ibn al-Athir" },
+      { "id": "D", "text": "Al-Biruni" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the steppe?",
+    "answers": [
+      { "id": "A", "text": "A mountain range" },
+      { "id": "B", "text": "A desert" },
+      { "id": "C", "text": "A flat region from Eastern Europe to the Pacific" },
+      { "id": "D", "text": "An oasis" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What significant animal was first domesticated on the steppe?",
+    "answers": [
+      { "id": "A", "text": "Camels" },
+      { "id": "B", "text": "Llamas" },
+      { "id": "C", "text": "Elephants" },
+      { "id": "D", "text": "Horses" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "How were steppe pastoralist societies generally organized?",
+    "answers": [
+      { "id": "A", "text": "By centralized governments" },
+      { "id": "B", "text": "By organized religions" },
+      { "id": "C", "text": "By tribes and clans" },
+      { "id": "D", "text": "By elected councils" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Who was Genghis Khan originally?",
+    "answers": [
+      { "id": "A", "text": "Tamerlane" },
+      { "id": "B", "text": "Hulagu" },
+      { "id": "C", "text": "Timujin" },
+      { "id": "D", "text": "Kublai" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "In what year was Genghis Khan declared 'Great Khan of the Mongols'?",
+    "answers": [
+      { "id": "A", "text": "1178" },
+      { "id": "B", "text": "1186" },
+      { "id": "C", "text": "1200" },
+      { "id": "D", "text": "1206" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What key attribute contributed to the success of the Mongol army?",
+    "answers": [
+      { "id": "A", "text": "Extensive use of catapults" },
+      { "id": "B", "text": "Superior naval fleet" },
+      { "id": "C", "text": "Speed due to 100% cavalry" },
+      { "id": "D", "text": "Massive infantry" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which Mongol Khanate ruled over Persia?",
+    "answers": [
+      { "id": "A", "text": "Khanate of the Great Khan" },
+      { "id": "B", "text": "Chagatai Khanate" },
+      { "id": "C", "text": "Ilkhanate" },
+      { "id": "D", "text": "Khanate of the Golden Horde" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "How did the Mongol Khanate of the Golden Horde rule Russia?",
+    "answers": [
+      { "id": "A", "text": "Through direct rule" },
+      { "id": "B", "text": "Through local Russian governors" },
+      { "id": "C", "text": "Indirectly by extracting tribute" },
+      { "id": "D", "text": "Through military occupation" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which Mongol ruler founded the Yuan Dynasty in China?",
+    "answers": [
+      { "id": "A", "text": "Genghis Khan" },
+      { "id": "B", "text": "Ogedei Khan" },
+      { "id": "C", "text": "Hulagu Khan" },
+      { "id": "D", "text": "Kublai Khan" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What trade network did the Mongols revitalize and protect?",
+    "answers": [
+      { "id": "A", "text": "Indian Ocean Trade" },
+      { "id": "B", "text": "Trans-Saharan Trade" },
+      { "id": "C", "text": "Silk Road Trade" },
+      { "id": "D", "text": "Atlantic Trade" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What system did the Mongols use for fast communication across their empire?",
+    "answers": [
+      { "id": "A", "text": "Semaphore System" },
+      { "id": "B", "text": "Yam System" },
+      { "id": "C", "text": "Postal System" },
+      { "id": "D", "text": "Telegraph System" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What famous explorer from Venice traveled through the Mongol Empire?",
+    "answers": [
+      { "id": "A", "text": "Marco Polo" },
+      { "id": "B", "text": "Christopher Columbus" },
+      { "id": "C", "text": "Ferdinand Magellan" },
+      { "id": "D", "text": "Vasco da Gama" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Which disease did the Mongols unintentionally help spread?",
+    "answers": [
+      { "id": "A", "text": "Smallpox" },
+      { "id": "B", "text": "Malaria" },
+      { "id": "C", "text": "Tuberculosis" },
+      { "id": "D", "text": "Black Death" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Which Mongol tactic involved threatening cities for leniency if they surrendered without resistance?",
+    "answers": [
+      { "id": "A", "text": "Biological Warfare" },
+      { "id": "B", "text": "Scorched Earth" },
+      { "id": "C", "text": "Psychological Warfare" },
+      { "id": "D", "text": "Surprise Attack" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which battle marked the end of Mongol expansion into the Middle East?",
+    "answers": [
+      { "id": "A", "text": "Battle of Manzikert" },
+      { "id": "B", "text": "Battle of Hattin" },
+      { "id": "C", "text": "Battle of Ayn Jalut" },
+      { "id": "D", "text": "Battle of Tours" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What significant event occurred in 1258 during the Mongol conquest?",
+    "answers": [
+      { "id": "A", "text": "Mongols conquered Constantinople" },
+      { "id": "B", "text": "Mongols conquered Abbasid Caliphate" },
+      { "id": "C", "text": "Mongols conquered Delhi Sultanate" },
+      { "id": "D", "text": "Mongols conquered Korea" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is true about Mongol women?",
+    "answers": [
+      { "id": "A", "text": "They were secluded in harems" },
+      { "id": "B", "text": "They held significant roles in society" },
+      { "id": "C", "text": "They were forbidden to ride horses" },
+      { "id": "D", "text": "They were not allowed to remarry" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which religion was spread westward by the Mongols?",
+    "answers": [
+      { "id": "A", "text": "Hinduism" },
+      { "id": "B", "text": "Christianity" },
+      { "id": "C", "text": "Buddhism" },
+      { "id": "D", "text": "Zoroastrianism" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What major event ended the Yuan Dynasty?",
+    "answers": [
+      { "id": "A", "text": "A peasant rebellion" },
+      { "id": "B", "text": "An earthquake" },
+      { "id": "C", "text": "A foreign invasion" },
+      { "id": "D", "text": "A drought" }
+    ],
+    "correct": "A"
+  }
+]

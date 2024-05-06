@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What was the name of the assembly where Genghis Khan was declared 'Great Khan'?",
+    "answers": [
+      { "id": "A", "text": "Kuriltai" },
+      { "id": "B", "text": "Khagan" },
+      { "id": "C", "text": "Khanate" },
+      { "id": "D", "text": "Khanum" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "How was the Mongol army organized?",
+    "answers": [
+      { "id": "A", "text": "By religion" },
+      { "id": "B", "text": "Decimally" },
+      { "id": "C", "text": "By ethnicity" },
+      { "id": "D", "text": "By language" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which Mongol ruler expanded the empire into the Middle East?",
+    "answers": [
+      { "id": "A", "text": "Genghis Khan" },
+      { "id": "B", "text": "Ogedei Khan" },
+      { "id": "C", "text": "Hulagu Khan" },
+      { "id": "D", "text": "Kublai Khan" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the reason for the Mongol expansion to Japan ending in failure?",
+    "answers": [
+      { "id": "A", "text": "Fierce Samurai resistance" },
+      { "id": "B", "text": "Tsunamis" },
+      { "id": "C", "text": "Divine Winds" },
+      { "id": "D", "text": "Disease" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which Khanate ruled over Russia and Ukraine?",
+    "answers": [
+      { "id": "A", "text": "Khanate of the Great Khan" },
+      { "id": "B", "text": "Chagatai Khanate" },
+      { "id": "C", "text": "Ilkhanate" },
+      { "id": "D", "text": "Khanate of the Golden Horde" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What was the term for the peaceful period after Mongol conquest?",
+    "answers": [
+      { "id": "A", "text": "Pax Mongolica" },
+      { "id": "B", "text": "Pax Romana" },
+      { "id": "C", "text": "Pax Sinica" },
+      { "id": "D", "text": "Pax Islamica" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "How did the Mongols influence trade along the Silk Road?",
+    "answers": [
+      { "id": "A", "text": "They disrupted trade" },
+      { "id": "B", "text": "They monopolized trade" },
+      { "id": "C", "text": "They revitalized and protected it" },
+      { "id": "D", "text": "They avoided trade" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the name of the system used by the Mongols for fast communication?",
+    "answers": [
+      { "id": "A", "text": "Pony Express" },
+      { "id": "B", "text": "Yam System" },
+      { "id": "C", "text": "Semaphore System" },
+      { "id": "D", "text": "Telegraph System" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "How did the Mongols govern the Ilkhanate in Persia?",
+    "answers": [
+      { "id": "A", "text": "Directly, for exploitation" },
+      { "id": "B", "text": "Indirectly, through local governors" },
+      { "id": "C", "text": "Through a council of elders" },
+      { "id": "D", "text": "Through a military occupation" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What led to the Yuan Dynasty's downfall?",
+    "answers": [
+      { "id": "A", "text": "A peasant rebellion" },
+      { "id": "B", "text": "Foreign invasion" },
+      { "id": "C", "text": "Corruption" },
+      { "id": "D", "text": "Drought" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "How did the Mongols handle religious diversity?",
+    "answers": [
+      { "id": "A", "text": "They imposed their religion on everyone" },
+      { "id": "B", "text": "They allowed religious freedom" },
+      { "id": "C", "text": "They banned all religions" },
+      { "id": "D", "text": "They only tolerated monotheism" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What was a notable aspect of the Mongol rule in China during the Yuan Dynasty?",
+    "answers": [
+      { "id": "A", "text": "They assimilated into Chinese culture" },
+      { "id": "B", "text": "They isolated themselves as a ruling class" },
+      { "id": "C", "text": "They adopted Chinese practices" },
+      { "id": "D", "text": "They used Chinese officials to rule" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "How did the Mongols contribute to the spread of the Black Death?",
+    "answers": [
+      { "id": "A", "text": "Through trade routes" },
+      { "id": "B", "text": "Through contaminated water" },
+      { "id": "C", "text": "Through biological warfare" },
+      { "id": "D", "text": "Through contact with wild animals" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "How did the Mongols treat skilled people they conquered?",
+    "answers": [
+      { "id": "A", "text": "They executed them" },
+      { "id": "B", "text": "They moved them to other parts of the empire" },
+      { "id": "C", "text": "They enslaved them" },
+      { "id": "D", "text": "They rewarded them" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Who led the Yuan Dynasty during its height?",
+    "answers": [
+      { "id": "A", "text": "Genghis Khan" },
+      { "id": "B", "text": "Ogedei Khan" },
+      { "id": "C", "text": "Hulagu Khan" },
+      { "id": "D", "text": "Kublai Khan" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What was one of the reasons the Mongols spread Buddhism and Islam?",
+    "answers": [
+      { "id": "A", "text": "They wanted to convert everyone" },
+      { "id": "B", "text": "They believed it would increase their spiritual power" },
+      { "id": "C", "text": "They wanted to build alliances" },
+      { "id": "D", "text": "They were influenced by Chinese culture" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "How did the Mongols rule the Khanate of the Golden Horde?",
+    "answers": [
+      { "id": "A", "text": "By directly ruling over the population" },
+      { "id": "B", "text": "By installing local leaders" },
+      { "id": "C", "text": "By extracting tribute" },
+      { "id": "D", "text": "By appointing foreign administrators" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What military strategy did the Mongols use to instill fear in their enemies?",
+    "answers": [
+      { "id": "A", "text": "Surprise attacks" },
+      { "id": "B", "text": "Scorched Earth" },
+      { "id": "C", "text": "Guerrilla tactics" },
+      { "id": "D", "text": "Terror tactics" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What battle stopped the Mongol advance into Western Europe?",
+    "answers": [
+      { "id": "A", "text": "Battle of Manzikert" },
+      { "id": "B", "text": "Battle of Hattin" },
+      { "id": "C", "text": "Battle of Legnica" },
+      { "id": "D", "text": "Battle of Tours" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Who was the famous Mongol general who invaded the Abbasid Caliphate?",
+    "answers": [
+      { "id": "A", "text": "Subutai" },
+      { "id": "B", "text": "Hulagu Khan" },
+      { "id": "C", "text": "Jebe" },
+      { "id": "D", "text": "Batu Khan" }
+    ],
+    "correct": "B"
+  }
+]
