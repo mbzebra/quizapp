@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Which of the following states was heavily influenced by China?",
+    "answers": [
+      { "id": "A", "text": "Thailand" },
+      { "id": "B", "text": "Japan" },
+      { "id": "C", "text": "India" },
+      { "id": "D", "text": "Indonesia" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which system of government did China primarily spread to nearby states?",
+    "answers": [
+      { "id": "A", "text": "Democracy" },
+      { "id": "B", "text": "Feudalism" },
+      { "id": "C", "text": "Monarchy" },
+      { "id": "D", "text": "Bureaucracy" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What ritual did states perform when engaging in the Chinese Tribute System?",
+    "answers": [
+      { "id": "A", "text": "Tea Ceremony" },
+      { "id": "B", "text": "Sumo Wrestling" },
+      { "id": "C", "text": "Kowtow" },
+      { "id": "D", "text": "Origami" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What natural feature characterizes Japan's geography?",
+    "answers": [
+      { "id": "A", "text": "Deserts" },
+      { "id": "B", "text": "Archipelago" },
+      { "id": "C", "text": "Grasslands" },
+      { "id": "D", "text": "River Delta" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What dynasty established centralized rule in Japan in the 7th century CE?",
+    "answers": [
+      { "id": "A", "text": "Tang Dynasty" },
+      { "id": "B", "text": "Ming Dynasty" },
+      { "id": "C", "text": "Yamato Dynasty" },
+      { "id": "D", "text": "Tokugawa Dynasty" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the Japanese term for 'Way of the Warrior'?",
+    "answers": [
+      { "id": "A", "text": "Zen" },
+      { "id": "B", "text": "Shogun" },
+      { "id": "C", "text": "Samurai" },
+      { "id": "D", "text": "Bushido" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Who was the first shogun of the Kamakura Shogunate?",
+    "answers": [
+      { "id": "A", "text": "Ashikaga Yoshimitsu" },
+      { "id": "B", "text": "Minamoto Yoritomo" },
+      { "id": "C", "text": "Toyotomi Hideyoshi" },
+      { "id": "D", "text": "Tokugawa Ieyasu" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is a ronin in the Japanese feudal system?",
+    "answers": [
+      { "id": "A", "text": "A Samurai's Wife" },
+      { "id": "B", "text": "A Farmer" },
+      { "id": "C", "text": "A Masterless Samurai" },
+      { "id": "D", "text": "A Merchant" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which of the following was a common religion in Japan?",
+    "answers": [
+      { "id": "A", "text": "Hinduism" },
+      { "id": "B", "text": "Christianity" },
+      { "id": "C", "text": "Buddhism" },
+      { "id": "D", "text": "Islam" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What unique Japanese religion focuses on the worship of spirits in nature?",
+    "answers": [
+      { "id": "A", "text": "Shintoism" },
+      { "id": "B", "text": "Confucianism" },
+      { "id": "C", "text": "Daoism" },
+      { "id": "D", "text": "Zen Buddhism" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What is the primary value of the warrior code, Bushido?",
+    "answers": [
+      { "id": "A", "text": "Wealth" },
+      { "id": "B", "text": "Honor" },
+      { "id": "C", "text": "Mercy" },
+      { "id": "D", "text": "Obedience" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Who was Tomoe Gozen?",
+    "answers": [
+      { "id": "A", "text": "A Zen Master" },
+      { "id": "B", "text": "A Shogun" },
+      { "id": "C", "text": "A Female Samurai Commander" },
+      { "id": "D", "text": "A Daimyo" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the name of the first shogunate in Japan?",
+    "answers": [
+      { "id": "A", "text": "Tokugawa Shogunate" },
+      { "id": "B", "text": "Ashikaga Shogunate" },
+      { "id": "C", "text": "Minamoto Shogunate" },
+      { "id": "D", "text": "Kamakura Shogunate" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What dilemma did samurai face under the feudal system?",
+    "answers": [
+      { "id": "A", "text": "Loyalty to multiple lords" },
+      { "id": "B", "text": "Conflict with peasants" },
+      { "id": "C", "text": "Balancing honor and wealth" },
+      { "id": "D", "text": "Obeying the emperor" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "How did the Chinese tribute system benefit rulers of other states?",
+    "answers": [
+      { "id": "A", "text": "Increased their power and prestige" },
+      { "id": "B", "text": "Gave them land" },
+      { "id": "C", "text": "Provided them with armies" },
+      { "id": "D", "text": "Allowed them to rule China" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What were daimyo in Japanese feudal society?",
+    "answers": [
+      { "id": "A", "text": "Peasants" },
+      { "id": "B", "text": "Landowners" },
+      { "id": "C", "text": "Merchants" },
+      { "id": "D", "text": "Artisans" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which group made up the majority of the Japanese population in feudal times?",
+    "answers": [
+      { "id": "A", "text": "Samurai" },
+      { "id": "B", "text": "Merchants" },
+      { "id": "C", "text": "Peasants" },
+      { "id": "D", "text": "Artisans" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What title did Japanese rulers adopt from China?",
+    "answers": [
+      { "id": "A", "text": "King of Kings" },
+      { "id": "B", "text": "Son of Heaven" },
+      { "id": "C", "text": "Mandate of Heaven" },
+      { "id": "D", "text": "Divine Ruler" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What characterized Japan's power structure during feudal times?",
+    "answers": [
+      { "id": "A", "text": "Centralized under the Emperor" },
+      { "id": "B", "text": "Anarchy" },
+      { "id": "C", "text": "Decentralized in hands of landowners" },
+      { "id": "D", "text": "Controlled by merchants" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which school of Buddhism became most common in Japan?",
+    "answers": [
+      { "id": "A", "text": "Theravada" },
+      { "id": "B", "text": "Tibetan" },
+      { "id": "C", "text": "Pure Land" },
+      { "id": "D", "text": "Zen" }
+    ],
+    "correct": "D"
+  }
+]
