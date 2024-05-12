@@ -1,2 +1,12 @@
 node_modules
 .idea
+
+
+# Ignore directory where bundle files are output
+/dist/
+
+# Alternatively, if bundle files are output to a different directory
+/build/
+
+# If specific files are generated, you can also ignore them specifically
+*.bundle.js

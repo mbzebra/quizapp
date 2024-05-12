@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Which of the following statements is true about the Mongols?",
+    "answers": [
+      { "id": "A", "text": "They preferred living in cities" },
+      { "id": "B", "text": "They were primarily farmers" },
+      { "id": "C", "text": "They were pastoral nomads" },
+      { "id": "D", "text": "They avoided using horses" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What was the population characteristic of steppe pastoralists?",
+    "answers": [
+      { "id": "A", "text": "Larger than settled societies" },
+      { "id": "B", "text": "Smaller than settled societies" },
+      { "id": "C", "text": "Equal to settled societies" },
+      { "id": "D", "text": "Indeterminate" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is a reason steppe societies were generally more gender-equal than settled societies?",
+    "answers": [
+      { "id": "A", "text": "Women were forbidden from working" },
+      { "id": "B", "text": "Women were allowed to hold multiple husbands" },
+      { "id": "C", "text": "Women did visible jobs necessary for survival" },
+      { "id": "D", "text": "Men were generally absent from steppe societies" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Who was Toregene Khatun?",
+    "answers": [
+      { "id": "A", "text": "A steppe female warrior" },
+      { "id": "B", "text": "A Mongolian princess" },
+      { "id": "C", "text": "A Mongolian shaman" },
+      { "id": "D", "text": "A Mongolian empress regent" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "How did Genghis Khan primarily achieve his conquests?",
+    "answers": [
+      { "id": "A", "text": "By using people skills and brutality" },
+      { "id": "B", "text": "By forming strong alliances" },
+      { "id": "C", "text": "By leveraging advanced technology" },
+      { "id": "D", "text": "By using diplomacy and trade" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What was a key feature of the Mongol army's organization?",
+    "answers": [
+      { "id": "A", "text": "Troops organized by family groups" },
+      { "id": "B", "text": "Troops organized by geographical regions" },
+      { "id": "C", "text": "Troops organized decimally" },
+      { "id": "D", "text": "Troops organized alphabetically" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What happened after the death of Genghis Khan?",
+    "answers": [
+      { "id": "A", "text": "His son Ogedei was declared Great Khan" },
+      { "id": "B", "text": "His army disbanded" },
+      { "id": "C", "text": "His conquests ceased" },
+      { "id": "D", "text": "His empire was divided immediately" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Which of the following was not a region conquered by the Mongols?",
+    "answers": [
+      { "id": "A", "text": "China" },
+      { "id": "B", "text": "Korea" },
+      { "id": "C", "text": "India" },
+      { "id": "D", "text": "Hungary" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What did the Mongols call their large meeting of chieftains?",
+    "answers": [
+      { "id": "A", "text": "Jirga" },
+      { "id": "B", "text": "Kurultai" },
+      { "id": "C", "text": "Majlis" },
+      { "id": "D", "text": "Diet" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "How did the Mongols treat religion?",
+    "answers": [
+      { "id": "A", "text": "They imposed their religion on all subjects" },
+      { "id": "B", "text": "They outlawed religion" },
+      { "id": "C", "text": "They promoted a state religion" },
+      { "id": "D", "text": "They practiced religious tolerance" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "What was the Pax Mongolica?",
+    "answers": [
+      { "id": "A", "text": "A time of war and chaos" },
+      { "id": "B", "text": "A peaceful time during Mongol rule" },
+      { "id": "C", "text": "A trade agreement between khanates" },
+      { "id": "D", "text": "A Mongol civil war" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "How did the Mongols communicate quickly across their empire?",
+    "answers": [
+      { "id": "A", "text": "Carrier pigeons" },
+      { "id": "B", "text": "The Yam System" },
+      { "id": "C", "text": "Drums" },
+      { "id": "D", "text": "Flag signals" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "How did the Mongol Ilkhanate rule Persia?",
+    "answers": [
+      { "id": "A", "text": "Indirectly through local rulers" },
+      { "id": "B", "text": "As a tributary state" },
+      { "id": "C", "text": "Directly, exploiting the system for riches" },
+      { "id": "D", "text": "As a colony" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "How did the Mongols influence Russia through the Golden Horde?",
+    "answers": [
+      { "id": "A", "text": "By integrating with western Europe" },
+      { "id": "B", "text": "By isolating Russia from western Europe" },
+      { "id": "C", "text": "By enforcing the Orthodox faith" },
+      { "id": "D", "text": "By introducing new agricultural techniques" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Who was Marco Polo?",
+    "answers": [
+      { "id": "A", "text": "A Mongolian general" },
+      { "id": "B", "text": "A Venetian merchant and explorer" },
+      { "id": "C", "text": "A Chinese official" },
+      { "id": "D", "text": "An Indian king" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What unusual form of warfare did the Mongols use?",
+    "answers": [
+      { "id": "A", "text": "Chemical warfare" },
+      { "id": "B", "text": "Psychological warfare" },
+      { "id": "C", "text": "Naval warfare" },
+      { "id": "D", "text": "Biological warfare" }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Which Mongol ruler founded the Yuan Dynasty?",
+    "answers": [
+      { "id": "A", "text": "Genghis Khan" },
+      { "id": "B", "text": "Ogedei Khan" },
+      { "id": "C", "text": "Kublai Khan" },
+      { "id": "D", "text": "Hulagu Khan" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which of the following is true about the Yuan Dynasty?",
+    "answers": [
+      { "id": "A", "text": "The Mongols assimilated into Chinese culture" },
+      { "id": "B", "text": "The Mongols treated the Chinese as equals" },
+      { "id": "C", "text": "The Mongols placed foreign administrators above Chinese officials" },
+      { "id": "D", "text": "The Mongols made Confucianism their state religion" }
+    ],
+    "correct": "C"
+  }
+]

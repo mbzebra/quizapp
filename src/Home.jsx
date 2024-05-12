@@ -13,13 +13,19 @@ const images = [
 
 const Home = () => {
   return (
-    <Container>
-      <Row className="justify-content-md-center">
-        <Col md={8} className="text-center">
-             <ImageQuizComponent images={images} lessonName="History Lesson"/>
-        </Col>
-      </Row>
-    </Container>
+  <header className="bg-primary">
+      <div id="root"></div>
+      <div className="container h-100">
+          <div className="row h-100">
+              <div className="col-12">
+                  <div className="text-center m-0 vh-100 d-flex flex-column justify-content-center text-light">
+                      <h1 className="display-4">Welcome Varsha!</h1>
+                      <p className="lead">This is your fun place to learn! Practice and ENJOY!</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </header>
   );
 };
 

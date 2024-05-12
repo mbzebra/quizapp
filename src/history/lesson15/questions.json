@@ -1,0 +1,205 @@
+[
+
+{
+  "question": "Which dynasty reunified China after the fall of the Han Dynasty?",
+  "answers": [
+    { "id": "A", "text": "Tang Dynasty" },
+    { "id": "B", "text": "Song Dynasty" },
+    { "id": "C", "text": "Yuan Dynasty" },
+    { "id": "D", "text": "Sui Dynasty" }
+  ],
+  "correct": "D"
+},
+{
+"question": "What was the main accomplishment of Emperor Sui Yangdi?",
+"answers": [
+{ "id": "A", "text": "Establishing the Chinese Tribute System" },
+{ "id": "B", "text": "Building the Grand Canal" },
+{ "id": "C", "text": "Reuniting the Han Empire" },
+{ "id": "D", "text": "Defeating the Mongols" }
+],
+"correct": "B"
+},
+{
+"question": "Which system allowed the Tang Dynasty to distribute land to peasants?",
+"answers": [
+{ "id": "A", "text": "Tribute System" },
+{ "id": "B", "text": "Equal-field System" },
+{ "id": "C", "text": "Aristocratic System" },
+{ "id": "D", "text": "Legalism System" }
+],
+"correct": "B"
+},
+{
+"question": "Which of the following dynasties is known as the 'Chinese Golden Age'?",
+"answers": [
+{ "id": "A", "text": "Sui Dynasty" },
+{ "id": "B", "text": "Tang Dynasty" },
+{ "id": "C", "text": "Song Dynasty" },
+{ "id": "D", "text": "Yuan Dynasty" }
+],
+"correct": "C"
+},
+{
+"question": "What is the Chinese Tribute System?",
+"answers": [
+{ "id": "A", "text": "A system where China paid tribute to neighboring states" },
+{ "id": "B", "text": "A system where neighboring countries acknowledged China's superiority" },
+{ "id": "C", "text": "A system where China adopted cultural elements from other states" },
+{ "id": "D", "text": "A system where China appointed officials from neighboring states" }
+],
+"correct": "B"
+},
+{
+"question": "What was the significant economic advancement during the Song Dynasty?",
+"answers": [
+{ "id": "A", "text": "Creation of guilds" },
+{ "id": "B", "text": "Use of paper money" },
+{ "id": "C", "text": "Expansion of interregional trade" },
+{ "id": "D", "text": "All of the above" }
+],
+"correct": "D"
+},
+{
+"question": "Which dynasty created a new legal code and helped unify north and south China?",
+"answers": [
+{ "id": "A", "text": "Han Dynasty" },
+{ "id": "B", "text": "Sui Dynasty" },
+{ "id": "C", "text": "Tang Dynasty" },
+{ "id": "D", "text": "Song Dynasty" }
+],
+"correct": "B"
+},
+{
+"question": "Which of the following technologies was developed during the Tang and Song dynasties?",
+"answers": [
+{ "id": "A", "text": "Block Printing" },
+{ "id": "B", "text": "Magnetic compass" },
+{ "id": "C", "text": "Gunpowder" },
+{ "id": "D", "text": "All of the above" }
+],
+"correct": "D"
+},
+{
+"question": "What did Neo-Confucianism add to Confucianism?",
+"answers": [
+{ "id": "A", "text": "A belief in reincarnation" },
+{ "id": "B", "text": "Mystical/spiritual cosmology and rational arguments about the spiritual world" },
+{ "id": "C", "text": "A focus on strict legal codes" },
+{ "id": "D", "text": "A belief in multiple gods" }
+],
+"correct": "B"
+},
+{
+"question": "What was the major cause of the Tang Dynasty's decline?",
+"answers": [
+{ "id": "A", "text": "The An Lu-shan Rebellion" },
+{ "id": "B", "text": "A peasant uprising" },
+{ "id": "C", "text": "The arrival of the Mongols" },
+{ "id": "D", "text": "Economic prosperity" }
+],
+"correct": "A"
+},
+{
+"question": "What was a notable policy of the Song Dynasty regarding government service?",
+"answers": [
+{ "id": "A", "text": "Aristocratic recommendation" },
+{ "id": "B", "text": "Inherited positions" },
+{ "id": "C", "text": "Open positions for foreigners" },
+{ "id": "D", "text": "Civil service exams" }
+],
+"correct": "D"
+},
+{
+"question": "What major crop did the Grand Canal help transport from south to north China?",
+"answers": [
+{ "id": "A", "text": "Wheat" },
+{ "id": "B", "text": "Rice" },
+{ "id": "C", "text": "Corn" },
+{ "id": "D", "text": "Barley" }
+],
+"correct": "B"
+},
+{
+"question": "What was the role of Empress Wu during the Tang Dynasty?",
+"answers": [
+{ "id": "A", "text": "The only woman to officially rule China" },
+{ "id": "B", "text": "A powerful general" },
+{ "id": "C", "text": "A famous poet" },
+{ "id": "D", "text": "A revered religious leader" }
+],
+"correct": "A"
+},
+{
+"question": "What philosophy developed during the Song Dynasty as a reaction to Buddhism and Daoism?",
+"answers": [
+{ "id": "A", "text": "Legalism" },
+{ "id": "B", "text": "Daoism" },
+{ "id": "C", "text": "Neo-Confucianism" },
+{ "id": "D", "text": "Zen Buddhism" }
+],
+"correct": "C"
+},
+{
+"question": "Which of the following is true about the Chinese Tribute System?",
+"answers": [
+{ "id": "A", "text": "It was a system where surrounding countries acknowledged China's superiority" },
+{ "id": "B", "text": "China paid tribute to neighboring states" },
+{ "id": "C", "text": "It involved cultural exchanges between China and neighboring states" },
+{ "id": "D", "text": "It only applied during the Tang Dynasty" }
+],
+"correct": "A"
+},
+{
+"question": "Which of the following technological advancements is associated with steel production in China?",
+"answers": [
+{ "id": "A", "text": "Mixing cast iron with wrought iron" },
+{ "id": "B", "text": "Smelting bronze" },
+{ "id": "C", "text": "Combining silver and copper" },
+{ "id": "D", "text": "Mixing gold with bronze" }
+],
+"correct": "A"
+},
+{
+"question": "What was the social impact of foot binding during the Song Dynasty?",
+"answers": [
+{ "id": "A", "text": "It empowered women to be more independent" },
+{ "id": "B", "text": "It reinforced patriarchy by limiting women's mobility" },
+{ "id": "C", "text": "It improved women's social status" },
+{ "id": "D", "text": "It was a form of martial arts training" }
+],
+"correct": "B"
+},
+{
+"question": "How did Buddhism influence China during the Tang Dynasty?",
+"answers": [
+{ "id": "A", "text": "It became the official state religion" },
+{ "id": "B", "text": "It was widely criticized by Confucian officials" },
+{ "id": "C", "text": "It led to the collapse of the dynasty" },
+{ "id": "D", "text": "It resulted in numerous civil wars" }
+],
+"correct": "B"
+},
+{
+"question": "What economic practice expanded during the Song Dynasty?",
+"answers": [
+{ "id": "A", "text": "Barter system" },
+{ "id": "B", "text": "Silk production" },
+{ "id": "C", "text": "Interregional trade" },
+{ "id": "D", "text": "Feudalism" }
+],
+"correct": "C"
+},
+{
+"question": "Which dynasty followed the Song Dynasty after conquering it in 1279?",
+"answers": [
+{ "id": "A", "text": "Yuan Dynasty" },
+{ "id": "B", "text": "Ming Dynasty" },
+{ "id": "C", "text": "Tang Dynasty" },
+{ "id": "D", "text": "Han Dynasty" }
+],
+"correct": "A"
+}
+
+]
+

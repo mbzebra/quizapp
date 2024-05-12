@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "webpack --config webpack.config.js",
     "start": "node server.js",
     "dev": "concurrently \"nodemon server.js\" \"webpack --mode development --watch\""
   },
@@ -35,6 +36,7 @@
   },
   "devDependencies": {
     "css-loader": "^7.1.1",
+    "dotenv-webpack": "^8.1.0",
     "style-loader": "^4.0.0"
   }
 }

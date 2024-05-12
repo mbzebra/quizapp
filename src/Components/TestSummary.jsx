@@ -1,14 +1,18 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import { Card, ListGroup } from 'react-bootstrap';
+import { Card, ListGroup, Pagination } from 'react-bootstrap';
 
 const TestSummary = ({ quizId }) => {
   const [results, setResults] = useState(null);
+  const [activePage, setActivePage] = useState(1);
+  const [itemsPerPage] = useState(5); // Adjust items per page as needed
+
+  const apiUrl = process.env.REACT_APP_API_BASE_URL;
 
   useEffect(() => {
     const fetchResults = async () => {
       try {
-        const response = await axios.get(`http://192.168.4.223:3001/api/retrieveResults/${quizId}`);
+        const response = await axios.get(`${apiUrl}/retrieveResults/${quizId}`);
         if (response.data.results) {
           setResults(response.data.results);
         }
@@ -20,10 +24,29 @@ const TestSummary = ({ quizId }) => {
     if (quizId) {
       fetchResults();
     }
-  }, [quizId]); // Include quizId in the dependency array to fetch results when quizId is available
+  }, [quizId]);
 
   if (!results) {
     return <div>Loading results...</div>;
+  }
+
+  // Calculate number of pages
+  const pageCount = Math.ceil(results.details.length / itemsPerPage);
+
+  // Slice results for current page
+  const detailsForPage = results.details.slice(
+    (activePage - 1) * itemsPerPage,
+    activePage * itemsPerPage
+  );
+
+  // Pagination items
+  let paginationItems = [];
+  for (let number = 1; number <= pageCount; number++) {
+    paginationItems.push(
+      <Pagination.Item key={number} active={number === activePage} onClick={() => setActivePage(number)}>
+        {number}
+      </Pagination.Item>
+    );
   }
 
   return (
@@ -36,9 +59,9 @@ const TestSummary = ({ quizId }) => {
             Detailed Answers:
           </Card.Text>
           <ListGroup variant="flush">
-            {results.details.map((detail, index) => (
+            {detailsForPage.map((detail, index) => (
               <ListGroup.Item key={index}>
-                <div>{index + 1}. {detail.question}</div>
+                <div>{(activePage - 1) * itemsPerPage + index + 1}. {detail.question}</div>
                 <ListGroup variant="flush">
                   {detail.options.map((option, idx) => {
                     let color = 'black'; // Default text color
@@ -61,6 +84,7 @@ const TestSummary = ({ quizId }) => {
               </ListGroup.Item>
             ))}
           </ListGroup>
+          <Pagination className="justify-content-center">{paginationItems}</Pagination>
         </Card.Body>
       </Card>
     </div>

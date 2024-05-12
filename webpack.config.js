@@ -1,4 +1,9 @@
 const path = require('path');
+const webpack = require('webpack');
+const dotenv = require('dotenv');
+
+// Load environment variables from .env file
+dotenv.config();
 
 module.exports = {
   entry: path.resolve(__dirname, 'src', 'index.js'),
@@ -11,19 +16,22 @@ module.exports = {
       {
         test: /\.jsx?$/,
         exclude: /node_modules/,
-        use: {
-          loader: 'babel-loader',
-        },
+        use: 'babel-loader',
       },
-            {
-              test: /\.css$/,
-              use: [
-                'style-loader', // Creates `style` nodes from JS strings
-                'css-loader',   // Translates CSS into CommonJS
-              ],
-            },
+      {
+        test: /\.css$/,
+        use: [
+          'style-loader', // Creates `style` nodes from JS strings
+          'css-loader',   // Translates CSS into CommonJS
+        ],
+      },
     ],
   },
+  plugins: [
+    new webpack.DefinePlugin({
+      'process.env': JSON.stringify(process.env)
+    }),
+  ],
   resolve: {
     extensions: ['.js', '.jsx'],
   },
