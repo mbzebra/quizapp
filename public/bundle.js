@@ -3587,7 +3587,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((module) => {
 
 "use strict";
-eval("module.exports = /*#__PURE__*/JSON.parse('{\"lessons\":{\"History\":20,\"Biology\":5}}');\n\n//# sourceURL=webpack://quizapp/./src/config.json?");
+eval("module.exports = /*#__PURE__*/JSON.parse('{\"lessons\":{\"History\":20,\"Biology\":6}}');\n\n//# sourceURL=webpack://quizapp/./src/config.json?");
 
 /***/ })
 
