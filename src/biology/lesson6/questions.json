@@ -1,0 +1,292 @@
+[
+  {
+    "question": "What is the main function of the immune system?",
+    "answers": [
+      { "id": "A", "text": "To maintain body temperature" },
+      { "id": "B", "text": "To protect the body from diseases caused by pathogens" },
+      { "id": "C", "text": "To aid in digestion" },
+      { "id": "D", "text": "To regulate sleep" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which disease is an example of a non-infectious disease?",
+    "answers": [
+      { "id": "A", "text": "Flu" },
+      { "id": "B", "text": "Measles" },
+      { "id": "C", "text": "Cancer" },
+      { "id": "D", "text": "Tuberculosis" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is a pathogen?",
+    "answers": [
+      { "id": "A", "text": "A type of medicine" },
+      { "id": "B", "text": "A microorganism that can cause disease" },
+      { "id": "C", "text": "A beneficial bacteria" },
+      { "id": "D", "text": "A vitamin that boosts immunity" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What does pasteurization do?",
+    "answers": [
+      { "id": "A", "text": "Cools down liquids" },
+      { "id": "B", "text": "Freezes bacteria" },
+      { "id": "C", "text": "Uses heat to kill bacteria" },
+      { "id": "D", "text": "Preserves fruit" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What does a vaccine do?",
+    "answers": [
+      { "id": "A", "text": "Cures diseases" },
+      { "id": "B", "text": "Relieves symptoms" },
+      { "id": "C", "text": "Prevents infections" },
+      { "id": "D", "text": "Destroys bacteria" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the innate immune response also known as?",
+    "answers": [
+      { "id": "A", "text": "Adaptive defense" },
+      { "id": "B", "text": "First line of defense" },
+      { "id": "C", "text": "Antibody production" },
+      { "id": "D", "text": "Hormonal response" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What type of cell traps pathogens in the nose before they can enter deeper into the body?",
+    "answers": [
+      { "id": "A", "text": "Macrophages" },
+      { "id": "B", "text": "Platelets" },
+      { "id": "C", "text": "Mucus" },
+      { "id": "D", "text": "T cells" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "How do Helper T cells function within the immune system?",
+    "answers": [
+      { "id": "A", "text": "They directly kill pathogens" },
+      { "id": "B", "text": "They coordinate the immune response" },
+      { "id": "C", "text": "They produce mucus" },
+      { "id": "D", "text": "They digest pathogens" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What do memory B cells do?",
+    "answers": [
+      { "id": "A", "text": "Destroy infected cells" },
+      { "id": "B", "text": "Remember how to make an antibody for a particular pathogen" },
+      { "id": "C", "text": "Coordinate immune responses" },
+      { "id": "D", "text": "Engulf and digest pathogens" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is the effect of cytokines in the immune system?",
+    "answers": [
+      { "id": "A", "text": "They act like hormones" },
+      { "id": "B", "text": "They kill bacteria" },
+      { "id": "C", "text": "They produce antibodies" },
+      { "id": "D", "text": "They suppress immune response" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What happens when bacteria multiply in the body?",
+    "answers": [
+      { "id": "A", "text": "They infect cells" },
+      { "id": "B", "text": "They produce toxins" },
+      { "id": "C", "text": "They undergo asexual reproduction" },
+      { "id": "D", "text": "They become viruses" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What do viruses do when they infect a cell?",
+    "answers": [
+      { "id": "A", "text": "Multiply using the cell's machinery" },
+      { "id": "B", "text": "Become dormant" },
+      { "id": "C", "text": "Produce antibiotics" },
+      { "id": "D", "text": "Engulf other cells" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What organelle do macrophages use to digest pathogens?",
+    "answers": [
+      { "id": "A", "text": "Mitochondria" },
+      { "id": "B", "text": "Ribosomes" },
+      { "id": "C", "text": "Lysosomes" },
+      { "id": "D", "text": "Golgi apparatus" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which of the following is a type of adaptive immune response?",
+    "answers": [
+      { "id": "A", "text": "Macrophage activity" },
+      { "id": "B", "text": "Cough reflex" },
+      { "id": "C", "text": "Memory B cell activation" },
+      { "id": "D", "text": "Platelet function" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What triggers the adaptive immune response?",
+    "answers": [
+      { "id": "A", "text": "Ingestion of vitamins" },
+      { "id": "B", "text": "Exposure to pathogens" },
+      { "id": "C", "text": "Reduction of body temperature" },
+      { "id": "D", "text": "Increased blood flow" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is the primary role of Killer T cells?",
+    "answers": [
+      { "id": "A", "text": "To produce mucus" },
+      { "id": "B", "text": "To digest food particles" },
+      { "id": "C", "text": "To destroy infected cells" },
+      { "id": "D", "text": "To coordinate immune responses" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "How do vaccines utilize memory B cells?",
+    "answers": [
+      { "id": "A", "text": "By training them to recognize and remember pathogens" },
+      { "id": "B", "text": "By deactivating them" },
+      { "id": "C", "text": "By converting them into T cells" },
+      { "id": "D", "text": "By removing them from the body" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "What characterizes severe immune responses in allergies?",
+    "answers": [
+      { "id": "A", "text": "Slow reaction to antigens" },
+      { "id": "B", "text": "Overreaction to non-dangerous antigens" },
+      { "id": "C", "text": "Lack of histamine release" },
+      { "id": "D", "text": "Production of digestive enzymes" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is an autoimmune disease?",
+    "answers": [
+      { "id": "A", "text": "When the body fails to recognize its own cells" },
+      { "id": "B", "text": "When the body overproduces antibodies" },
+      { "id": "C", "text": "When the immune system attacks the body's own cells" },
+      { "id": "D", "text": "When the immune system is underactive" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Which of the following is a common allergen?",
+    "answers": [
+      { "id": "A", "text": "Water" },
+      { "id": "B", "text": "Sand" },
+      { "id": "C", "text": "Pollen" },
+      { "id": "D", "text": "Salt" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What happens in celiac disease when gluten is ingested?",
+    "answers": [
+      { "id": "A", "text": "Blood cells attack the gluten directly" },
+      { "id": "B", "text": "The immune system damages the cells of the small intestine" },
+      { "id": "C", "text": "Gluten is absorbed without issues" },
+      { "id": "D", "text": "The stomach increases acid production" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What is the secondary immune response?",
+    "answers": [
+      { "id": "A", "text": "The body's response to the first exposure to a pathogen" },
+      { "id": "B", "text": "The response to non-specific pathogens" },
+      { "id": "C", "text": "The reaction upon subsequent exposures to the same pathogen" },
+      { "id": "D", "text": "The initial activation of T cells" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What type of cell is primarily responsible for producing antibodies?",
+    "answers": [
+      { "id": "A", "text": "Macrophages" },
+      { "id": "B", "text": "Helper T cells" },
+      { "id": "C", "text": "B cells" },
+      { "id": "D", "text": "Killer T cells" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the role of antibodies in the immune system?",
+    "answers": [
+      { "id": "A", "text": "To digest pathogens" },
+      { "id": "B", "text": "To coordinate immune responses" },
+      { "id": "C", "text": "To recognize and help neutralize pathogens" },
+      { "id": "D", "text": "To produce cytokines" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What immune response involves non-specific protection and operates from birth?",
+    "answers": [
+      { "id": "A", "text": "Innate immune response" },
+      { "id": "B", "text": "Adaptive immune response" },
+      { "id": "C", "text": "Passive immune response" },
+      { "id": "D", "text": "Active immune response" }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "How do antiviral medicines function?",
+    "answers": [
+      { "id": "A", "text": "By boosting the production of mucus" },
+      { "id": "B", "text": "By increasing body temperature" },
+      { "id": "C", "text": "By stopping viruses from reproducing within host cells" },
+      { "id": "D", "text": "By killing bacteria" }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "What is the role of platelets in the immune response?",
+    "answers": [
+      { "id": "A", "text": "To digest pathogens" },
+      { "id": "B", "text": "To seal wounds and prevent pathogen entry" },
+      { "id": "C", "text": "To produce antibodies" },
+      { "id": "D", "text": "To activate T cells" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Which cells are involved in the innate immune response?",
+    "answers": [
+      { "id": "A", "text": "Memory B cells" },
+      { "id": "B", "text": "Macrophages" },
+      { "id": "C", "text": "Helper T cells" },
+      { "id": "D", "text": "Killer T cells" }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "What function do Helper T cells serve in relation to B cells?",
+    "answers": [
+      { "id": "A", "text": "They inhibit B cell function" },
+      { "id": "B", "text": "They activate B cells to make antibodies" },
+      { "id": "C", "text": "They convert B cells into T cells" },
+      { "id": "D", "text": "They destroy B cells" }
+    ],
+    "correct": "B"
+  }
+]
